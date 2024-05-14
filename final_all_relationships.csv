@@ -1,0 +1,694 @@
+section,type,source_id,target_id,description
+1,establishment,Food Standards Australia New Zealand,consumer confidence,Food Standards Australia New Zealand is established to ensure consumer confidence in food quality and safety.
+1,establishment,Food Standards Australia New Zealand,regulatory framework,Food Standards Australia New Zealand operates within a regulatory framework to ensure efficiency in the food industry.
+1,provision,Food Standards Australia New Zealand,consumer information,Food Standards Australia New Zealand provides adequate information to consumers for informed choices.
+1,establishment,Food Standards Australia New Zealand,common rules,Food Standards Australia New Zealand establishes common rules and promotes consistency in food regulatory measures.
+2,administered_by,appropriate government agency,Forum on Food Regulation,Appropriate government agencies are administered by a Minister who is a member of the Forum on Food Regulation.
+2,established_by,APVMA,Agricultural and Veterinary Chemicals (Administration) Act 1992,The Australian Pesticides and Veterinary Medicines Authority is continued in existence by the Agricultural and Veterinary Chemicals (Administration) Act 1992.
+2,published_under,Australia New Zealand Food Standards Code,Food Standards Code,The Australia New Zealand Food Standards Code was published under the name Food Standards Code.
+2,signed_by,Australia New Zealand Joint Food Standards Agreement,Government of Australia,The Australia New Zealand Joint Food Standards Agreement was signed by the Government of Australia and the Government of New Zealand.
+2,constitutes,Authority,Food Standards Australia New Zealand,The Authority constitutes Food Standards Australia New Zealand.
+2,part_of,Board,Food Standards Australia New Zealand,The Board is part of Food Standards Australia New Zealand.
+2,developed_by,code of practice,Authority,The code of practice is developed by the Authority.
+2,established_by,Commonwealth authority,Commonwealth,A Commonwealth authority is established by the Commonwealth.
+2,administered_by,Finance Minister,"Public Governance, Performance and Accountability Act 2013","The Finance Minister is responsible for administering the Public Governance, Performance and Accountability Act 2013."
+2,established_under,Food Regulation Standing Committee,Food Regulation Agreement,The Food Regulation Standing Committee is established under the Food Regulation Agreement.
+2,constitutes,food regulatory measure,standard,A food regulatory measure constitutes a standard or a code of practice.
+2,established_by,Forum on Food Regulation,Food Regulation Agreement,The Forum on Food Regulation is established by the Food Regulation Agreement.
+2,established_by,High Level Health Claims Committee,Authority,The High Level Health Claims Committee is established by the Authority.
+2,variation_of,high level health claims variation,"Nutrition, Health and Related Claims Standard","A high level health claims variation is a variation of the Nutrition, Health and Related Claims Standard."
+2,substitution_for,Maximum Residue Limits Standard,standard,The Maximum Residue Limits Standard may be in force in substitution for another standard.
+2,member_of,member,Board,A member is a member of the Board of the Authority.
+2,established_by,New Zealand authority,New Zealand,A New Zealand authority is established by New Zealand.
+2,nominated_by,New Zealand lead Minister on the Forum on Food Regulation,government of New Zealand,The New Zealand lead Minister on the Forum on Food Regulation is nominated by the government of New Zealand.
+2,substitution_for,"Nutrition, Health and Related Claims Standard",standard,"The Nutrition, Health and Related Claims Standard may be in force in substitution for another standard."
+2,formulated_by,policy guideline,Forum on Food Regulation,A policy guideline is formulated by the Forum on Food Regulation.
+2,included_in,standard,Australia New Zealand Food Standards Code,A standard is included in the Australia New Zealand Food Standards Code.
+2,established_by,State or Territory authority,State,A State or Territory authority is established by a State or Territory.
+2,refers_to,Territory,Australian Capital Territory,Territory refers to the Australian Capital Territory and the Northern Territory.
+2,held_by,trust money,Authority,Trust money is received or held by the Authority on trust.
+3,exclusion,food,therapeutic_good,Food does not include therapeutic goods as defined by the Therapeutic Goods Act 1989.
+4,consult,Minister,Authority,The Minister consults the Authority before making a declaration.
+4,declare,Minister,Declaration_of_what_is_food,The Minister declares a substance or thing as food by a legislative instrument.
+4,publish,Minister,New_Zealand_Gazette,The Minister must cause a copy of the declaration to be published in the New Zealand Gazette.
+4,exception,Declaration_of_what_is_food,Legislation_Act_2003,Sections 42 (disallowance) and Part 4 of Chapter 3 (sunsetting) of the Legislation Act 2003 do not apply to the declaration.
+4,effective_date,Declaration_of_what_is_food,Declaration_of_what_is_food,"The declaration takes effect on the day specified within it, which must not be before its publication."
+5,publish_notice,Authority,public_notice_requirements,The Authority publishes notice on its website to satisfy public notice requirements.
+5,give_written_notice,Authority,government_agency,The Authority gives written notice to each appropriate government agency to satisfy public notice requirements.
+5,give_written_notice,Authority,applicant,The Authority gives written notice to the applicant when the notice requirement arises from considering an application to develop or vary a food regulatory measure.
+5,give_written_notice,Authority,submission_contributor,The Authority gives written notice to each person who made a submission during the call for submissions on an application or proposal for the development or variation of a food regulatory measure.
+5,give_written_notice,Authority,other_person_or_body,The Authority gives written notice to any other person or body it considers appropriate.
+6,applies_for,applicant,section_22,The applicant applies for the development or variation of a food regulatory measure under section 22.
+6,may_derive_financial_gain_from,applicant,draft_standard_or_variation,The applicant may derive a financial gain from the coming into effect of the draft standard or variation.
+6,requires_agreement_of,unrelated_persons_or_bodies,applicant,Unrelated persons or bodies would require the agreement of the applicant to benefit financially from the approval of the application.
+6,confers_benefit_on,exclusive_capturable_commercial_benefit,applicant,An exclusive capturable commercial benefit is conferred on the applicant when certain conditions are met.
+7,regulated_by,corporation,food_standard,Corporations are regulated by food standards in relation to the sale of food and activities connected with food.
+7,regulated_by,trading_corporation,food_standard,Trading corporations are regulated by food standards in relation to their trading activities connected with food.
+7,ensures_efficiency,trade_and_commerce,food_standard,Trade and commerce regulations ensure the efficiency and profitability of food commerce between Australia and other places or among the States.
+7,regulates,territories_regulation,food_standard,Territories regulation is connected with the regulation of food and food standards in the Territories.
+7,controls_standards,commonwealth_standards_control,food_standard,Commonwealth Standards Control is connected with controlling the standards of food supplied to the Commonwealth and its entities.
+7,fixes,weights_and_measures,food_standard,Weights and measures are fixed in respect of food standards.
+8,binding,FOOD STANDARDS AUSTRALIA NEW ZEALAND ACT 1991 - SECT 10,Crown,"The Act binds the Crown in right of the Commonwealth, of each of the States, of the Australian Capital Territory and of the Northern Territory."
+8,exemption,Crown,FOOD STANDARDS AUSTRALIA NEW ZEALAND ACT 1991 - SECT 10,The Crown is not liable to be prosecuted for an offence under this Act.
+9,applies_to,Chapter 2 of the Criminal Code,FOOD STANDARDS AUSTRALIA NEW ZEALAND ACT 1991,Chapter 2 of the Criminal Code applies to all offences against the FOOD STANDARDS AUSTRALIA NEW ZEALAND ACT 1991.
+10,continued_as,Australia New Zealand Food Authority,Food Standards Australia New Zealand,The Australia New Zealand Food Authority is continued as Food Standards Australia New Zealand.
+10,governed_by,Food Standards Australia New Zealand,Acts Interpretation Act 1901,Food Standards Australia New Zealand is governed by provisions in the Acts Interpretation Act 1901.
+10,subject_to,Food Standards Australia New Zealand,"Public Governance, Performance and Accountability Act 2013","Food Standards Australia New Zealand is subject to the Public Governance, Performance and Accountability Act 2013."
+11,responsible_for,Authority,Australia_New_Zealand_Food_Standards_Code,The Authority is responsible for developing and reviewing the Australia New Zealand Food Standards Code.
+11,consultation,Authority,States_and_Territories,"The Authority consults with the States and Territories on various functions including harmonisation of laws, monitoring, surveillance, enforcement, research, and education initiatives related to food."
+11,cooperation,Authority,Minister_administering_Part_3-3_of_Schedule_2_to_the_Competition_and_Consumer_Act_2010,The Authority cooperates with the Minister to coordinate the recall of food under Commonwealth law.
+11,request_service,New_Zealand,Authority,New Zealand can request the Authority to perform functions similar to those it performs for the States and Territories of Australia.
+11,provide_advice,Authority,Minister_administering_Part_3-3_of_Schedule_2_to_the_Competition_and_Consumer_Act_2010,The Authority provides advice to the Minister on matters relating to food.
+12,has_power_to,Authority,enter_into_contracts,The Authority has the power to enter into contracts.
+12,has_power_to,Authority,acquire_hold_dispose_property,"The Authority has the power to acquire, hold and dispose of real or personal property."
+12,has_power_to,Authority,occupy_use_control_land_building,"The Authority has the power to occupy, use and control any land or building owned, or held under lease, by the Commonwealth and made available for the purposes of the Authority."
+12,has_power_to,Authority,engage_persons,The Authority has the power to engage persons to perform services for the Authority.
+12,has_power_to,Authority,provide_assistance,"The Authority has the power to provide assistance to bodies or persons to prepare submissions related to the development or consideration of draft food regulatory measures or draft variations of food regulatory measures, or related to the performance of any other function of the Authority."
+12,has_power_to,Authority,accept_gifts_grants,"The Authority has the power to accept gifts, grants, bequests and advances made to the Authority and act as trustee of money or other property vested in the Authority on trust."
+12,has_power_to,Authority,form_participate_companies,"The Authority has the power to form, or participate in the formation of, companies."
+12,has_power_to,Authority,subscribe_for_purchase_shares,"The Authority has the power to subscribe for or purchase shares in, or debentures and other securities of, companies."
+12,has_power_to,Authority,participate_partnerships,"The Authority has the power to participate in partnerships, trusts and unincorporated joint ventures."
+12,has_power_to,Authority,do_incidental_things,The Authority has the power to do anything incidental to any of its powers.
+12,operational_scope,Authority,within_outside_Australia,The powers of the Authority may be exercised within or outside Australia.
+13,consultation,Minister,Forum_on_Food_Regulation,The Minister must consult with the Forum on Food Regulation before giving a direction to the Authority.
+13,compliance,Authority,Minister,The Authority must comply with the directions given by the Minister.
+13,direction,Minister,Authority,The Minister may give written directions to the Authority regarding the performance of its functions and the exercise of its powers.
+13,reporting,Minister,Parliament,The Minister must cause a copy of the direction and a written statement of the reasons for giving the direction to be laid before each House of the Parliament within 15 sitting days after the direction is given.
+13,legislation_reference,FOOD_STANDARDS_AUSTRALIA_NEW_ZEALAND_ACT_1991,Public_Governance_Performance_and_Accountability_Act_2013,"This section does not affect the application of section 22 of the Public Governance, Performance and Accountability Act 2013 in relation to the Authority."
+14,responsible_for,Authority,food_composition,The Authority is responsible for developing standards related to the composition of food.
+14,responsible_for,Authority,food_production,The Authority is responsible for developing standards related to the production of food.
+14,responsible_for,Authority,food_handling,The Authority is responsible for developing standards related to the handling of food.
+14,responsible_for,Authority,food_sale_prohibition,The Authority is responsible for developing standards related to the prohibition of the sale of food.
+14,responsible_for,Authority,food_information,The Authority is responsible for developing standards related to information about food.
+14,responsible_for,Authority,food_handler_requirements,The Authority is responsible for developing standards related to the requirements for people handling food.
+14,responsible_for,Authority,business_responsibilities,The Authority is responsible for developing standards related to the responsibilities of businesses handling food.
+14,responsible_for,Authority,food_temperature_measurement,The Authority is responsible for developing standards related to the use of devices to measure the temperature of food.
+14,responsible_for,Authority,food_handling_premises,The Authority is responsible for developing standards related to premises for handling food.
+14,responsible_for,Authority,food_business_information,The Authority is responsible for developing standards related to information from food businesses.
+14,responsible_for,Authority,food_sale_restrictions,The Authority is responsible for developing standards related to restrictions on food sale.
+14,responsible_for,Authority,food_advertisement_restrictions,The Authority is responsible for developing standards related to restrictions on food advertisements.
+14,responsible_for,Authority,food_handling_animals_pests,The Authority is responsible for developing standards related to requirements for animals and pests in food handling.
+14,responsible_for,Authority,standards_interpretation,The Authority is responsible for developing standards related to the interpretation of other standards.
+14,responsible_for,Authority,standards_application,The Authority is responsible for developing standards related to the application of standards.
+14,responsible_for,Authority,public_health_matters,The Authority is responsible for developing standards related to public health matters relating to food.
+14,responsible_for,Authority,food_class,The Authority is responsible for developing standards that may relate to a class of food generally.
+14,responsible_for,Authority,food_brand,The Authority is responsible for developing standards that may relate to a particular brand of food.
+15,specifies,SECT_17,standards,Codes of practice and their variations are limited to matters that may be included in standards.
+16,has_objective,Authority,public_health_and_safety,The Authority has the objective of protecting public health and safety.
+16,has_objective,Authority,informed_consumer_choice,The Authority has the objective of providing adequate information to consumers.
+16,has_objective,Authority,prevent_misleading_conduct,The Authority has the objective of preventing misleading or deceptive conduct.
+16,must_consider,Authority,risk_analysis,The Authority must consider the need for standards to be based on risk analysis using the best available scientific evidence.
+16,must_consider,Authority,consistency_with_international_standards,The Authority must consider the promotion of consistency between domestic and international food standards.
+16,must_consider,Authority,food_industry_competitiveness,The Authority must consider the desirability of an efficient and internationally competitive food industry.
+16,must_consider,Authority,fair_trading,The Authority must consider the promotion of fair trading in food.
+16,formulates,Forum_on_Food_Regulation,policy_guidelines,The Forum on Food Regulation formulates policy guidelines for the Authority.
+16,publish,Authority,policy_guidelines,The Authority must publish the policy guidelines on its website.
+16,adopt_measures,Authority,sanitary_and_phytosanitary_measures,The Authority may provisionally adopt sanitary or phytosanitary measures based on available pertinent scientific information.
+17,obligation,Authority,Three_Year_Forward_Plan,The Authority is obligated to develop and publish the Three Year Forward Plan.
+17,consultation,Authority,interested_persons,The Authority must consult interested persons in the development of the Three Year Forward Plan.
+17,review,Authority,Three_Year_Forward_Plan,The Authority must review and update the Three Year Forward Plan at least every 3 months.
+18,considers,Authority,application,The Authority decides whether to accept or reject the application.
+18,notifies,Authority,applicant,The Authority notifies the applicant of the acceptance of the application.
+18,gives_public_notice,Authority,public,The Authority gives public notice of the application and the proposed steps for considering it.
+18,assesses,Authority,application,The Authority assesses the application and may reject it or proceed to the next step.
+18,calls_for,Authority,public_submissions,The Authority calls for public submissions on the application or draft food regulatory measure.
+18,prepares,Authority,draft_food_regulatory_measure,The Authority prepares a draft food regulatory measure or a draft variation of a food regulatory measure.
+18,considers_submissions,Authority,public_submissions,The Authority must have regard to the submissions when preparing a draft food regulatory measure.
+18,decides,Authority,draft_standard_or_variation,The Authority decides whether to approve or reject the draft standard or variation and prepares a report.
+18,notifies,Authority,Forum_on_Food_Regulation,The Authority notifies the Forum on Food Regulation of the approval of the draft standard or variation.
+18,comes_into_effect,draft_standard_or_variation,Forum_on_Food_Regulation,The standard or variation comes into effect after consideration by the Forum on Food Regulation and publication.
+19,applies_to,food_regulatory_measure,Authority,Bodies or persons may apply to the Food Standards Australia New Zealand for the development or variation of a Food Regulatory Measure.
+19,specified_by,application_requirements,guidelines_section_23,The application requirements for developing or varying a food regulatory measure are specified by the Guidelines under Section 23.
+19,submission_to,application_requirements,Authority,Applications meeting the application requirements must be submitted to the Food Standards Australia New Zealand.
+20,can_make,Authority,application_guidelines,The Authority has the power to make application guidelines for food regulatory measures.
+20,exempt_from,application_guidelines,Legislation_Act_2003,The application guidelines made by the Authority are exempt from disallowance and sunsetting provisions under the Legislation Act 2003.
+20,specify_for,Authority,food_regulatory_measure,"The Authority specifies the form, information, and things to be included with applications for the development or variation of food regulatory measures."
+20,enable_assessment,application_guidelines,food_regulatory_measure,The application guidelines enable the Authority to assess applications and develop or vary food regulatory measures.
+20,determine_charge,application_guidelines,section_146,The application guidelines may specify information that enables the Authority to determine whether a charge under section 146 is payable in relation to the application.
+21,can_withdraw_application,applicant,Authority,The applicant can withdraw their application by giving written notice to the Authority before the draft food regulatory measure is approved or the application is rejected.
+21,must_refund_charge,Authority,applicant,The Authority must refund the applicant part of the charge paid under section 146 if the application is withdrawn and the charge has not been fully expended.
+21,must_give_public_notice,Authority,draft_food_regulatory_measure,The Authority must give public notice that the application has been withdrawn if the notice of withdrawal is received after public notice of the application has been given under section 28 or 51.
+22,adopts,Authority,general_procedure,The Authority adopts the general procedure for considering applications unless specific subdivisions or urgent application criteria apply.
+22,exception,general_procedure,Subdivision_E,The general procedure does not apply to applications under Subdivision E.
+22,exception,general_procedure,Subdivision_F,The general procedure does not apply to applications under Subdivision F.
+22,exception,general_procedure,Subdivision_G,The general procedure does not apply to applications under Subdivision G.
+22,exception,general_procedure,urgent_application,The general procedure does not apply to urgent applications as defined under section 95.
+22,considered_separately,high_level_health_claims_variation,other_kind_of_variation,"If an application includes both a high level health claims variation and another kind of variation, they are considered as separate applications."
+23,responsibility,Authority,subsection_22(2),The Authority must ensure that applications comply with subsection 22(2).
+23,consideration,Authority,food_regulatory_measure,"The Authority must consider if the application relates to a matter that may be developed as a food regulatory measure, or that warrants the variation of a food regulatory measure."
+23,evaluation_criterion,Authority,previous_application_or_proposal,The Authority must evaluate if the application is so similar to a previous application or proposal that it ought to be rejected.
+23,rejection_criterion,subsection_22(2),previous_application_or_proposal,"If an application does not comply with subsection 22(2), it must be disregarded when determining the similarity of later applications or proposals."
+24,notify,Authority,applicant,The Authority must notify the applicant immediately in writing upon acceptance of an application.
+24,requirement,applicant,charge_under_section_146,The applicant must pay the charge under section 146 within 20 business days after notification is given if an exclusive capturable commercial benefit would be conferred.
+24,consequence,applicant,Authority,"The application will be rejected if the charge, or the first instalment of the charge, is not paid within the specified period."
+24,option,applicant,charge_under_section_146,The applicant may elect to have the consideration of the application expedited by paying the charge under section 146.
+25,accepts,Authority,application,The Authority accepts the application for the development or variation of a food regulatory measure.
+25,gives,Authority,public_notice,The Authority gives public notice of the application after accepting it.
+25,requires_payment,application,exclusive_capturable_commercial_benefit,The application requires the payment of a charge if an exclusive capturable commercial benefit would be conferred on the applicant.
+25,rejects,Authority,application,The Authority must reject the application if the charge for an exclusive capturable commercial benefit is not paid within the specified period.
+25,updates,Authority,public_notice,The Authority updates the public notice if the charge to expedite consideration is paid after the early payment period.
+26,responsible_for_assessing,Authority,food_regulatory_measure,The Authority is responsible for assessing applications that may result in the development or variation of Food Regulatory Measures.
+26,consideration,Authority,New_Zealand_standards,"In assessing applications, the Authority must consider any relevant New Zealand standards."
+26,guided_by,Authority,section_18,The Authority's objectives in developing or varying food regulatory measures are guided by Section 18.
+27,assess,Authority,application,The Authority assesses the application submitted by the applicant.
+27,prepare_or_reject,Authority,draft_food_regulatory_measure,The Authority must either prepare a draft food regulatory measure or reject the application.
+27,notify,Authority,applicant,"If the Authority prepares a draft measure or variation that differs from the application, it must notify the applicant."
+27,call_for_submissions,Authority,draft_food_regulatory_measure,The Authority will call for submissions for the purpose of assessing the draft measure or draft variation.
+27,time_restriction,public_notice_section_31,Authority,The Authority must not give public notice under section 31 within 10 business days after notice is given to the applicant.
+28,calls_for,Authority,public_notice,The Authority must give a public notice after preparing a draft food regulatory measure or variation.
+28,specifies,public_notice,draft_food_regulatory_measure,The public notice must state that the Authority has prepared a draft food regulatory measure.
+28,specifies,public_notice,draft_variation_of_food_regulatory_measure,The public notice must state that the Authority has prepared a draft variation of a food regulatory measure.
+28,includes,public_notice,written_submissions,The public notice must call for written submissions for the Authority's consideration of the draft measure or draft variation.
+28,defines,public_notice,submission_period,The public notice must specify the submission period for written submissions.
+29,must_follow,Authority,standard_development_variation,The Authority must follow the steps for standard development or variation when an application results in such outcomes.
+29,must_follow,Authority,code_of_practice_development_variation,The Authority must follow the steps for code of practice development or variation when an application results in such outcomes.
+29,outlined_by,standard_development_variation,SECT_33,The steps for standard development or variation are outlined by Section 33.
+29,outlined_by,standard_development_variation,SECT_34,The steps for standard development or variation are outlined by Section 34.
+29,outlined_by,code_of_practice_development_variation,SECT_35,The steps for code of practice development or variation are outlined by Section 35.
+30,has_responsibility,Authority,draft_standard_or_draft_variation,"The Authority has the responsibility to approve, amend, or reject the draft standard or draft variation after the submission period."
+30,must_consider,Authority,submission_period,The Authority must consider all submissions made during the submission period when making a decision.
+30,prepares,Authority,report,The Authority prepares a report under Section 33 after making a decision on the draft standard or draft variation.
+30,includes,report,Regulation_Impact_Statement,The report includes a Regulation Impact Statement if applicable.
+30,cannot_delegate,Board,Authority,The Board must not delegate its powers to act on behalf of the Authority under paragraph (a).
+30,takes_effect,draft_standard_or_draft_variation,notice_under_section_92,The draft standard or draft variation does not take effect except in accordance with a notice under section 92.
+31,notifies,Authority,Forum_on_Food_Regulation,The Authority must notify the Forum on Food Regulation after approving a draft standard or draft variation.
+31,publishes,Authority,draft_standard_or_draft_variation,The Authority must publish a notice on its website regarding the approval of the draft standard or draft variation.
+31,review_request,Forum_on_Food_Regulation,draft_standard_or_draft_variation,The Forum on Food Regulation may request the Authority to review the draft standard or draft variation.
+31,provides_information,Authority,Forum_on_Food_Regulation,"Upon direction, the Authority must provide the Forum with information required for making a decision about the draft under Division 3."
+31,outlines_process,Division_3,Forum_on_Food_Regulation,Division 3 outlines the process that the Forum on Food Regulation follows after receiving notification from the Authority.
+32,notice,Authority,Forum_on_Food_Regulation,The Authority must give written notice of its decision regarding the draft code of practice or draft variation to the Forum on Food Regulation.
+32,approval_authority,Authority,draft_code_of_practice_or_draft_variation,The Authority has the authority to approve or reject the draft code of practice or draft variation.
+32,supersession_authority,Authority,other_code_of_practice,The Authority has the authority to revoke or vary another code of practice that would be superseded by its decision.
+32,public_notice,Authority,public,"The Authority must give public notice of its decision, specifying the date of effect and how to obtain further information about the decision and the reasons for it."
+32,non_delegation,Board,Authority,The Board is prohibited from delegating its powers to act on behalf of the Authority under subsection (1).
+33,applies_to,Subdivision_Application,Variation_of_Food_Regulatory_Measure,"The Subdivision Application regulation applies to the Variation of Food Regulatory Measure when it does not impose, vary, or remove obligations or rights, or otherwise alter the legal effect of the measure."
+34,must_adopt,Authority,general_procedure,The Authority must adopt the general procedure when considering an application.
+34,with_modifications,general_procedure,Subdivision_modifications,The general procedure must be adopted with the modifications set out in the Subdivision.
+35,modification,FOOD_STANDARDS_AUSTRALIA_NEW_ZEALAND_ACT_1991_SECT_38,section_29,Section 38 modifies the step set out in section 29
+35,exemption,section_29,paragraphs_29_2_a_and_b,Paragraphs 29(2)(a) and (b) are not applied as per the modification in Section 38
+35,requirement,paragraphs_29_2_a_and_b,Authority,The Authority is required to do a cost benefit analysis according to paragraphs 29(2)(a) and (b)
+35,exception,FOOD_STANDARDS_AUSTRALIA_NEW_ZEALAND_ACT_1991_SECT_38,paragraphs_29_2_a_and_b,Section 38 exempts the Authority from the requirement to do a cost benefit analysis due to the minor nature of the variation
+36,modification,section_39,section_30,Section 39 modifies Section 30 by indicating that subsections 30(2) and (3) are not applicable.
+37,modifies,section_40,section_31,Section 40 modifies the step set out in section 31 by stating that section 31 does not apply.
+37,responsible_for,Authority,draft_variation,The Authority is responsible for preparing the draft variation of the food regulatory measure.
+37,must_provide,Authority,draft_variation,"After preparing a draft variation, the Authority must give written notice to the applicant and appropriate government agencies."
+37,calls_for,Authority,submission_period,The Authority calls for written submissions to be made within the submission period for the purpose of its consideration of the draft variation.
+38,has_responsibility,Authority,draft_variation,"The Authority has the responsibility to approve, amend, or reject the draft variation after the submission period."
+38,prepares,Authority,report_under_section_41,The Authority prepares a report under Section 41 after deciding on the draft variation.
+38,notifies,Authority,Forum_on_Food_Regulation,The Authority notifies the Forum on Food Regulation of the approval of the draft variation and provides a copy of the report.
+38,publishes,Authority,draft_variation,The Authority publishes a notice on its website about the approval of the draft variation and where further information can be obtained.
+38,request_information,Forum_on_Food_Regulation,Authority,The Forum on Food Regulation may direct the Authority to provide information required to assist the Forum in making a decision about the draft variation.
+38,cannot_delegate,Board,Authority,The Board must not delegate its powers to act on behalf of the Authority under paragraph (a).
+39,applies_to,Subdivision_Application,New_Food_Regulatory_Measure_Development,The Subdivision applies to the process of developing new food regulatory measures.
+39,applies_to,Subdivision_Application,Food_Regulatory_Measure_Variation,The Subdivision applies to the process of varying existing food regulatory measures.
+39,condition_for,Scientific_Technical_Complexity,Food_Regulatory_Measure_Variation,Scientific or technical complexity is a condition that requires the adoption of a specific procedure when considering the variation of a food regulatory measure.
+39,condition_for,Significant_Scope_Change,Food_Regulatory_Measure_Variation,A significant change to the scope is a condition that requires the adoption of a specific procedure when considering the variation of a food regulatory measure.
+40,adopt,Authority,general_procedure,"The Authority must adopt the general procedure in considering the application, with modifications."
+41,assessment,Authority,section_29,The Authority must assess applications as outlined in Section 29.
+41,procedural_step,section_44,section_30,Section 44 requires an additional step to be taken by the Authority after assessing an application under section 29 but before proceeding to the step in section 30.
+41,requirement,section_44,public_notice_requirements,Section 44 outlines the requirements for the Authority to give public notice which includes several specific mandates.
+41,submission_call,public_notice_requirements,Authority,The public notice must call for written submissions on matters relevant to the application to be given to the Authority within a specified period.
+42,consideration,Authority,section_30,The Authority must consider all submissions made during the submission period when making a decision under section 30.
+43,applies_to,Nutrition_Health_and_Related_Claims_Standard,high_level_health_claims_variation,"The Nutrition, Health and Related Claims Standard applies to applications for high level health claims variation."
+43,exception,general_procedure,high_level_health_claims_variation,"The general procedure is an exception that applies when an application to vary the Nutrition, Health and Related Claims Standard does not involve a change to the list of high level health claims."
+44,responsibility,Authority,subsection_22(2),The Authority must ensure that applications comply with subsection 22(2).
+44,evaluation_criteria,Authority,high_level_health_claims_variation,The Authority must consider if the application is similar to previous applications or proposals for a high level health claims variation.
+44,time_frame,Authority,NA,The Authority must accept or reject the application within 15 business days after it is received.
+44,rejection_criteria,Authority,subsection_22(2),The Authority must reject an application if it does not comply with subsection 22(2).
+44,exception,subsection_22(2),high_level_health_claims_variation,"If an application is rejected for non-compliance with subsection 22(2), it should not be considered when determining the similarity of later applications or proposals for the variation of the standard."
+45,notification,Authority,applicant,The Authority must notify the applicant immediately in writing if the application has been accepted.
+45,payment_obligation,applicant,charge_section_146,The applicant must pay the charge under Section 146 or the first instalment of the charge within a specified period after being notified of the application's acceptance.
+45,rejection_condition,applicant,Authority,The Authority will reject the application if the charge or the first instalment of the charge is not paid within the specified period.
+45,procedural_notification,Authority,applicant,The Authority must give notice in writing to the applicant identifying the procedure it will adopt in considering the application and indicating when it proposes to undertake the key steps in the procedure.
+45,expedited_consideration_option,applicant,Authority,The applicant may elect to have the consideration of the application expedited by paying the charge under Section 146.
+46,notice_given,Authority,High_Level_Health_Claims_Committee,The Authority must give notice of the application for a high level health claims variation to the High Level Health Claims Committee.
+46,notice_given,Authority,Food_Regulation_Standing_Committee,The Authority must give notice of the application for a high level health claims variation to the Food Regulation Standing Committee.
+46,application_accepted,Authority,applicant,The Authority accepts the application for a high level health claims variation from the applicant.
+46,application_rejected,Authority,applicant,The Authority must reject the application if the applicant does not pay the required charge within the specified period and is seeking an exclusive capturable commercial benefit.
+47,consideration,Authority,draft_high_level_health_claims_variation,The Authority must consider whether to approve the draft high level health claims variation.
+47,objective,Authority,public_health_and_safety,The Authority must ensure the protection of public health and safety before approving a draft variation.
+47,objective,Authority,informed_consumer_choice,The Authority must ensure the provision of adequate information relating to food to enable informed consumer choice before approving a draft variation.
+47,objective,Authority,prevent_misleading_conduct,The Authority must ensure the prevention of misleading or deceptive conduct before approving a draft variation.
+47,recommendation_consideration,Authority,High_Level_Health_Claims_Committee,The Authority must take into account any recommendations made by the High Level Health Claims Committee in relation to the draft variation.
+47,submission_consideration,Authority,Food_Regulation_Standing_Committee,The Authority must take into account any submission made on behalf of a jurisdiction represented on the Food Regulation Standing Committee in relation to the draft variation.
+47,procedure,Authority,public_notice_section_51,"The Authority must follow the procedure of giving public notice under section 51 if the applicant elects for it, and consider all submissions made during the submission period."
+47,notification,Authority,draft_high_level_health_claims_variation,The Authority must notify the applicant if the draft variation differs from that sought in the application or was not sought at all.
+47,time_restriction,public_notice_section_51,draft_high_level_health_claims_variation,The Authority must not give public notice calling for submissions under section 51 within 10 business days immediately after notice is given of a differing draft variation.
+48,requests,applicant,public_notice,The applicant may elect to request the Authority to give a public notice calling for submissions.
+48,prepares,Authority,draft_variation,The Authority prepares a draft high level health claims variation.
+48,calls_for,Authority,public_notice,The Authority must give a public notice calling for written submissions if the applicant makes an election under subsection (1).
+48,specifies,public_notice,submission_period,The public notice must specify the submission period for written submissions.
+48,includes,public_notice,draft_variation,The public notice must include a copy of the draft high level health claims variation or state how it can be obtained.
+49,consideration,Authority,High_Level_Health_Claims_Variation,The Authority must consider whether to approve or reject the High Level Health Claims Variation.
+49,submission_period,Section_51_Notice,High_Level_Health_Claims_Variation,The Authority considers submissions made in response to a Section 51 Notice during the submission period for the High Level Health Claims Variation.
+49,recommendation,High_Level_Health_Claims_Committee,High_Level_Health_Claims_Variation,The High Level Health Claims Committee provides recommendations to the Authority regarding the High Level Health Claims Variation.
+49,submission,Food_Regulation_Standing_Committee,High_Level_Health_Claims_Variation,The Food Regulation Standing Committee may make submissions to the Authority regarding the High Level Health Claims Variation.
+49,non_delegation,Section_150,Authority,The Board must not delegate its powers to the Authority under paragraph (a) in relation to approving or rejecting the High Level Health Claims Variation.
+49,report_creation,Authority,High_Level_Health_Claims_Variation,The Authority must prepare a report after deciding to approve or reject the High Level Health Claims Variation.
+50,must_notify,Authority,Forum_on_Food_Regulation,The Authority must notify the Forum on Food Regulation after approving a draft high level health claims variation.
+50,must_provide,Authority,report_prepared_under_section_52,The Authority must provide a copy of the report prepared under section 52 to the Forum on Food Regulation.
+50,may_direct,Forum_on_Food_Regulation,Authority,The Forum on Food Regulation may direct the Authority to provide information required for making a decision about the draft.
+50,must_give_public_notice,Authority,submissions_called_for_under_section_51,"If submissions were called for under section 51, the Authority must give public notice of the decision."
+50,outlined_in,Division_3,Forum_on_Food_Regulation,The process that the Forum on Food Regulation follows after receiving notification is outlined in Division 3.
+51,considers,Authority,food_regulatory_measure,The Authority considers proposals for the development or variation of food regulatory measures.
+51,calls_for,Authority,public_submissions,The Authority calls for public submissions during the assessment of proposals.
+51,prepares,Authority,draft_food_regulatory_measure,The Authority prepares a draft food regulatory measure or variation based on the proposal and public submissions.
+51,decides,Authority,draft_standard,The Authority decides whether to approve or reject a draft standard.
+51,revokes_or_varies,Authority,draft_code_of_practice,The Authority revokes or varies an existing code of practice based on the draft code of practice.
+51,notifies,Authority,Forum_on_Food_Regulation,The Authority notifies the Forum on Food Regulation of the approval of a standard or variation.
+51,considers,Forum_on_Food_Regulation,food_regulatory_measure,The Forum on Food Regulation considers the standard or variation after approval by the Authority and before it is published.
+51,varies,APVMA,food_regulatory_measure,The APVMA deals with variations of the Maximum Residue Limits Standard.
+52,can_prepare,Authority,Proposal,The Authority can prepare a proposal for the development or variation of a food regulatory measure.
+52,must_be_written,Proposal,null,The proposal must be in writing.
+53,may_abandon,Authority,proposal,"The Authority may abandon a proposal before the draft standard or draft variation is approved, or before the draft code of practice or draft variation is approved."
+53,must_give_notice,Authority,abandonment_notice,"If the Authority abandons a proposal after public notice has been given under section 58 or 75, it must give public notice of the abandonment."
+53,related_to,proposal,draft_standard,A proposal may result in the development or variation of a draft standard.
+53,related_to,proposal,draft_code_of_practice,A proposal may result in the development or variation of a draft code of practice.
+53,condition_for_abandonment,public_notice_section_58_or_75,abandonment_notice,"If the Authority abandons a proposal after public notice has been given under section 58 or 75, the abandonment notice must be given."
+54,adopts_procedure,Authority,general_procedure,The Authority must adopt the general procedure unless a proposal falls under a specific subdivision or is declared urgent.
+54,exception,general_procedure,minor_variation_proposal,The general procedure is not used when the proposal is for a minor variation of a food regulatory measure.
+54,exception,general_procedure,new_or_major_variation_proposal,The general procedure is not used when the proposal is for the development of a new or major variation of a food regulatory measure.
+54,exception,general_procedure,high_level_health_claims_variation_proposal,The general procedure is not used when the proposal is for a high level health claims variation.
+54,exception,general_procedure,urgent_proposal,The general procedure is not used when the proposal is declared to be an urgent proposal.
+55,prepares,Authority,Proposal,The Food Standards Australia New Zealand Authority prepares the food regulatory measure proposal.
+55,gives_notice,Authority,PublicNotice,The Authority must give public notice of the proposal including specific details and steps.
+55,details,PublicNotice,Proposal,"The public notice must contain details about the proposal such as the date it was made, a summary, the procedure for consideration, key steps timeline, and how to obtain further information."
+56,assess,Authority,proposal,"The Authority must assess the proposal it prepares, subject to section 56."
+56,consideration,proposal,food_regulatory_measure,The proposal is assessed with regard to the development or variation of a food regulatory measure.
+56,cost_benefit_analysis,Authority,food_regulatory_measure,"In assessing the proposal, the Authority must consider whether costs outweigh the benefits of the food regulatory measure."
+56,alternative_measures_consideration,Authority,food_regulatory_measure,The Authority must consider whether other measures would be more cost-effective than the food regulatory measure.
+56,standards_consideration,Authority,New_Zealand_standards,The Authority must have regard to any relevant New Zealand standards when assessing a proposal.
+56,guidance,section_18,Authority,Section 18 provides guidance to the Authority on its objectives in developing or varying food regulatory measures.
+56,abandonment_option,section_56,Authority,Section 56 allows the Authority to abandon a proposal.
+57,assess,Authority,proposal,The Authority assesses the proposal.
+57,prepare,Authority,draft_food_regulatory_measure,The Authority prepares a draft food regulatory measure after assessing a proposal.
+57,prepare,Authority,draft_variation_of_food_regulatory_measure,The Authority prepares a draft variation of a food regulatory measure after assessing a proposal.
+57,abandon,Authority,proposal,The Authority may abandon the proposal instead of preparing a draft measure or variation.
+58,calls_for,Authority,public_notice,The Authority must give public notice after preparing a draft food regulatory measure or a draft variation of a food regulatory measure.
+58,includes,public_notice,draft_food_regulatory_measure,The public notice must include a copy of the draft food regulatory measure or state how it can be obtained.
+58,includes,public_notice,draft_variation_of_food_regulatory_measure,The public notice must include a copy of the draft variation of the food regulatory measure or state how it can be obtained.
+58,requests,Authority,written_submissions,The Authority calls for written submissions to be given within a specified period for consideration of the draft measure or draft variation.
+59,must_follow,Authority,standard_development_or_variation,The Authority must follow the steps set out in sections 63 and 64 for standard development or variation.
+59,must_follow,Authority,code_of_practice_development_or_variation,The Authority must follow the step set out in section 65 for code of practice development or variation.
+59,related_to,standard_development_or_variation,section_63,Section 63 is a legislative reference related to the process of standard development or variation.
+59,related_to,standard_development_or_variation,section_64,Section 64 is a legislative reference related to the process of standard development or variation.
+59,related_to,code_of_practice_development_or_variation,section_65,Section 65 is a legislative reference related to the process of code of practice development or variation.
+60,responsible_for,Authority,draft_standard_or_draft_variation,"The Authority is responsible for approving, amending, or rejecting the draft standard or draft variation."
+60,consideration,Authority,submission_period,The Authority must consider all submissions made during the submission period before making a decision.
+60,prepares,Authority,report,The Authority prepares a report after making a decision on the draft standard or draft variation.
+60,includes,report,Regulation_Impact_Statement,The report includes a Regulation Impact Statement if applicable.
+60,non_delegation,Board,Authority,The Board must not delegate its powers to act on behalf of the Authority under paragraph (a).
+60,effectiveness_condition,draft_standard_or_draft_variation,notice_under_section_93,The draft standard or draft variation does not take effect except in accordance with a notice under section 93.
+61,notifies,Authority,Forum_on_Food_Regulation,The Authority must notify the Forum on Food Regulation when a draft standard or draft variation is approved.
+61,review_request,Forum_on_Food_Regulation,Authority,The Forum on Food Regulation may request the Authority to review the draft standard or draft variation.
+61,publish_notice,Authority,draft_standard_or_draft_variation,The Authority must publish a notice on its website regarding the approval of the draft standard or draft variation.
+61,provide_information,Authority,Forum_on_Food_Regulation,The Authority must provide the Forum on Food Regulation with a written notification and a copy of the report prepared under section 63.
+61,direct,Forum_on_Food_Regulation,Authority,The Forum on Food Regulation may direct the Authority to provide information required for making a decision about the draft under Division 3.
+61,outlines_process,Division_3,Forum_on_Food_Regulation,Division 3 outlines the process that the Forum on Food Regulation follows after receiving notification from the Authority.
+62,responsible_for,Authority,draft_code_of_practice_or_draft_variation,The Authority is responsible for approving or rejecting the draft code of practice or draft variation.
+62,cannot_delegate_power,Board,Authority,The Board must not delegate its powers to act on behalf of the Authority under subsection (1).
+62,notify,Authority,Forum_on_Food_Regulation,The Authority must give written notice of its decision to the Forum on Food Regulation.
+62,give_public_notice,Authority,public_notice_of_decision,The Authority must give public notice of its decision regarding the draft code of practice or draft variation.
+62,specify,public_notice_of_decision,date_of_effect,The public notice must specify the date of effect of the Authority's decision.
+62,state,public_notice_of_decision,further_information_about_decision,The public notice must state how to obtain further information about the decision and the reasons for it.
+62,revoke_or_vary,Authority,other_code_of_practice,"If another code of practice would be superseded by the Authority's decision, the Authority must revoke or vary the other code of practice."
+63,applies_to,Subdivision_Application,Variation_of_Food_Regulatory_Measure,The Subdivision Application regulation applies to proposals for the variation of food regulatory measures that meet certain criteria.
+63,example_of,Typographical_Error_Correction,Variation_of_Food_Regulatory_Measure,Correcting a typographical error is an example of a variation of a food regulatory measure.
+63,example_of,Update_Reference,Variation_of_Food_Regulatory_Measure,Updating a reference to another document is an example of a variation of a food regulatory measure.
+63,example_of,Change_Cross_Reference,Variation_of_Food_Regulatory_Measure,Changing a cross-reference is an example of a variation of a food regulatory measure.
+63,example_of,Omit_Ceased_Provisions,Variation_of_Food_Regulatory_Measure,Omitting provisions that have ceased to have effect is an example of a variation of a food regulatory measure.
+64,adopt,Authority,general_procedure,The Authority must adopt the general procedure when considering proposals.
+64,modify,general_procedure,Subdivision_modifications,The general procedure must be adopted with the modifications set out in the Subdivision.
+65,modifies,Section_68,Section_61,Section 68 modifies the step set out in Section 61.
+65,prepares,Authority,Draft_Variation,The Authority prepares the draft variation of the food regulatory measure.
+65,notifies,Authority,Government_Agencies,The Authority must give written notice to appropriate government agencies after preparing a draft variation.
+65,calls_for,Authority,Written_Submissions,The Authority calls for written submissions for the purpose of its consideration of the draft variation.
+65,specifies_period,Authority,Written_Submissions,The Authority specifies the period within which the written submissions are to be made.
+66,responsible_for,Authority,draft_variation,"The Authority is responsible for approving, amending, or rejecting the draft variation."
+66,notify,Authority,Forum_on_Food_Regulation,The Authority must notify the Forum on Food Regulation after approving a draft variation.
+66,provide,Authority,report_under_section_69,The Authority must prepare and provide a report under Section 69 after deciding on the draft variation.
+66,review_request,Forum_on_Food_Regulation,draft_variation,The Forum on Food Regulation may request the Authority to review the draft variation.
+66,direct,Forum_on_Food_Regulation,Authority,The Forum may direct the Authority to provide information required for making a decision about the draft under Division 3.
+66,publish,Authority,draft_variation,The Authority must publish a notice on its website about the approval of the draft variation.
+67,applies_to,Subdivision_Application,New_Food_Regulatory_Measure_Development,The Subdivision application process applies to the development of new food regulatory measures.
+67,applies_to,Subdivision_Application,Food_Regulatory_Measure_Variation,The Subdivision application process applies to the variation of food regulatory measures that are scientifically or technically complex or involve a significant change to the scope.
+68,must_adopt,Authority,general_procedure,The Authority must adopt the general procedure in considering the proposal.
+68,subject_to,general_procedure,modifications,The general procedure must be adopted with the modifications set out in the Subdivision.
+69,assessment,Authority,section_59,The Authority must assess the proposal under section 59.
+69,notification,Authority,public_notice,The Authority must give public notice after assessing the proposal under section 59 but before undertaking the step set out in section 60.
+69,summary,public_notice,section_59,The public notice must include a summary of the results of the Authority's assessment of the proposal.
+69,submission_call,public_notice,written_submissions,The public notice must call for written submissions on matters relevant to the proposal.
+69,sequence,section_59,section_60,The step set out in section 60 follows the assessment of a proposal by the Authority under section 59.
+70,consideration,Authority,submission_period,The Authority must consider all submissions made during the Submission Period when making a decision under section 60.
+70,decision_making,Authority,section_60,"The Authority makes a decision under Section 60, taking into account the submissions made during the Submission Period."
+71,applies_to,Subdivision_SECT_74,Nutrition_Health_and_Related_Claims_Standard,"Subdivision SECT 74 applies to proposals for the variation of the Nutrition, Health and Related Claims Standard."
+71,condition_for,high_level_health_claims_variation,Subdivision_SECT_74,The application of Subdivision SECT 74 is conditioned on the proposal being a high level health claims variation.
+71,exception,general_procedure,Subdivision_SECT_74,The general procedure applies instead of Subdivision SECT 74 if the proposal does not involve a change to the list of high level health claims.
+72,notice,Authority,High_Level_Health_Claims_Committee,The Authority must give notice of the proposal to the High Level Health Claims Committee.
+72,notice,Authority,Food_Regulation_Standing_Committee,The Authority must also give notice of the proposal to the Food Regulation Standing Committee.
+72,proposal,Authority,High_Level_Health_Claims_Variation,The Authority proposes to make a high level health claims variation.
+73,consideration,Authority,High_Level_Health_Claims_Variation,The Authority must consider whether to approve the draft high level health claims variation.
+73,requirement,Authority,Public_Health_and_Safety,The Authority must be satisfied that approving the draft variation meets the objective of protecting public health and safety.
+73,requirement,Authority,Informed_Choices,The Authority must ensure that the draft variation provides adequate information relating to food to enable consumers to make informed choices.
+73,requirement,Authority,Prevent_Misleading_Conduct,The Authority must ensure that the draft variation prevents misleading or deceptive conduct.
+73,consideration,Authority,High_Level_Health_Claims_Committee,The Authority must take into account any recommendations made by the High Level Health Claims Committee in relation to the draft variation.
+73,consideration,Authority,Food_Regulation_Standing_Committee,The Authority must take into account any submission made on behalf of a jurisdiction represented on the Food Regulation Standing Committee in relation to the draft variation.
+74,notice,Authority,high level health claims variation,The Authority must give public notice of the draft high level health claims variation.
+74,notice,Authority,Food Regulation Standing Committee,The Authority must also give notice to the Food Regulation Standing Committee before a high level health claims variation is approved.
+74,call_for_submissions,Authority,submission period,The Authority calls for written submissions within the submission period for the purpose of considering the draft high level health claims variation.
+75,responsible_for,Authority,High_Level_Health_Claims_Committee,The Authority is responsible for considering the recommendations of the High Level Health Claims Committee.
+75,responsible_for,Authority,Food_Regulation_Standing_Committee,The Authority is responsible for considering the submissions made by the Food Regulation Standing Committee.
+75,cannot_delegate_power,Board,Authority,The Board must not delegate its powers to act on behalf of the Authority under paragraph (a).
+75,provides_recommendations,High_Level_Health_Claims_Committee,Authority,The High Level Health Claims Committee provides recommendations to the Authority in relation to proposals and draft variations.
+75,makes_submissions,Food_Regulation_Standing_Committee,Authority,The Food Regulation Standing Committee makes submissions to the Authority in relation to proposals and draft variations.
+75,approves_or_abandons,Authority,draft_high_level_health_claims_variation,The Authority must approve or abandon the draft high level health claims variation after the submission period.
+75,prepares_report,Authority,report,"The Authority must prepare a report including reasons for the proposal, summaries of recommendations and submissions, and the Authority's responses and reasons for its decision."
+76,notify,Authority,Forum_on_Food_Regulation,The Authority must notify the Forum on Food Regulation within 10 business days after approving a draft high level health claims variation.
+76,provide,Authority,report_prepared_under_section_78,The Authority must provide a copy of the report prepared under section 78 to the Forum on Food Regulation.
+76,give_public_notice,Authority,draft_high_level_health_claims_variation,The Authority must give public notice of the decision to approve the draft high level health claims variation.
+76,request_information,Forum_on_Food_Regulation,Authority,The Forum on Food Regulation may direct the Authority to provide information required for the Forum to make a decision about the draft under Division 3.
+77,notification,APVMA,Authority,The APVMA notifies the Authority under section 8E of the Agvet Code.
+77,application,Division_Application,Agvet_Code_section_8E,The Division's application is triggered by a notification from the APVMA under section 8E of the Agvet Code.
+78,obligation,Authority,APVMA_notification,The Authority must give public notice of APVMA notifications.
+78,timing,Authority,APVMA_notification,The Authority must give the notice as soon as practicable after the notification.
+78,reference,APVMA_notification,Agvet_Code_section_8E,The APVMA notification is made under section 8E of the Agvet Code.
+79,can_vary,APVMA,Maximum_Residue_Limits_Standard,The APVMA has the authority to vary the Maximum Residue Limits Standard.
+79,is_a,Legislative_Instrument,Maximum_Residue_Limits_Standard,A variation of the Maximum Residue Limits Standard is a legislative instrument.
+79,must_notify,APVMA,Authority,The APVMA must notify the Authority of a proposed variation before making it.
+79,must_prepare_or_review,Authority,Legislative_Instrument,The Authority must prepare or review a dietary exposure assessment of the proposed variation.
+79,must_receive_assessment,Forum_on_Food_Regulation,Legislative_Instrument,The Forum on Food Regulation must receive a copy of the dietary exposure assessment.
+79,must_consider,APVMA,Legislative_Instrument,The APVMA must consider the dietary exposure assessment and any comments on it before making a variation.
+79,must_provide_copy,APVMA,Authority,The APVMA must give a copy of the variation to the Authority.
+79,must_publish,APVMA,Gazette,The APVMA must publish a copy of the variation in the Gazette.
+79,commences_on_publication,Legislative_Instrument,Gazette,The variation commences on the day it is published in the Gazette.
+80,authority_to_vary,Authority,Maximum_Residue_Limits_Standard,The Authority has the power to vary the Maximum Residue Limits Standard without limitation.
+81,must_notify,Authority,Forum_on_Food_Regulation,"The Authority must notify the Forum on Food Regulation when it has approved a draft standard, variation, or high level health claims variation."
+81,may_request_review,Forum_on_Food_Regulation,Authority,"The Forum on Food Regulation may request the Authority to review the draft standard, variation, or high level health claims variation."
+81,must_comply,Forum_on_Food_Regulation,Food_Regulation_Agreement,The Forum on Food Regulation must comply with the Food Regulation Agreement when exercising its powers.
+81,must_comply,Forum_on_Food_Regulation,Australia_New_Zealand_Joint_Food_Standards_Agreement,The Forum on Food Regulation must comply with the Australia New Zealand Joint Food Standards Agreement when exercising its powers in relation to a draft high level health claims variation.
+82,informs_not_to_review,Forum_on_Food_Regulation,Authority,The Forum on Food Regulation informs the Authority that it does not intend to request a review of a draft standard or draft variation.
+82,must_comply_with,Authority,section_92,The Authority must comply with the publication requirements set out in Section 92 after being informed by the Forum on Food Regulation about not requesting a review.
+83,request_review,Forum_on_Food_Regulation,Authority,The Forum on Food Regulation can request the Authority to review a draft standard or draft variation.
+83,inform_concerns,Forum_on_Food_Regulation,Authority,"When requesting a review, the Forum must inform the Authority of the Forum's concerns with the draft."
+83,give_directions,Forum_on_Food_Regulation,Authority,The Forum on Food Regulation may give directions to the Authority in relation to the conduct of a review.
+83,not_legislative_instrument,direction_under_subsection_2,Authority,A direction under subsection (2) given to the Authority is not a legislative instrument.
+84,request_review,Forum_on_Food_Regulation,review_of_draft_standard_or_variation,The Forum on Food Regulation can request the Authority to review a draft standard or draft variation.
+84,conduct_review,Authority,review_of_draft_standard_or_variation,The Authority conducts the review of the draft standard or draft variation.
+84,complete_review,Authority,decision_by_Authority,The Authority must complete the review and make a decision within 3 months or a longer period if allowed by the Forum.
+84,notify_decision,Authority,notification_to_Forum,The Authority must notify the Forum on Food Regulation of its decision and reasons within 10 business days.
+84,non_delegable_power,Authority,decision_by_Authority,The Authority's power to act on behalf of the Authority under subsection (2) must not be delegated as per section 150.
+85,notify,Authority,Forum_on_Food_Regulation,The Authority notifies the Forum on Food Regulation of a decision.
+85,amend_or_reject,Forum_on_Food_Regulation,draft,The Forum on Food Regulation may amend or reject the draft within 60 days after notification from the Authority.
+85,time_constraint,Forum_on_Food_Regulation,draft,The Forum on Food Regulation must inform or take action regarding the draft within 60 days after notification.
+85,instrument_status,instrument,legislative_instrument,An instrument made under paragraph (1)(b) is not a legislative instrument.
+86,informs,Forum_on_Food_Regulation,Authority,The Forum on Food Regulation informs the Authority about its intentions not to amend or reject a draft standard or draft variation.
+86,comply_with,Authority,publication_requirements_section_92,The Authority must comply with the publication requirements set out in section 92 following the Forum on Food Regulation's decision not to amend or reject a draft standard or draft variation.
+87,must_give_opportunity,Forum_on_Food_Regulation,Authority,The Forum on Food Regulation must give the Authority an opportunity to submit a draft of the text of the amendment before amending a draft standard or draft variation.
+87,must_inform,Forum_on_Food_Regulation,Authority,The Forum on Food Regulation must inform the Authority that the Forum has amended the draft and give the Authority a copy of the amended draft as soon as practicable after deciding to amend.
+87,must_comply_with_publication_requirements,Authority,section_92,The Authority must comply with the publication requirements set out in section 92 as soon as practicable after being informed of the amendment.
+88,rejects,Forum_on_Food_Regulation,draft_standard_or_variation,The Forum on Food Regulation decides to reject a draft standard or draft variation.
+88,prepare_notice,Forum_on_Food_Regulation,rejection_notice,The Forum on Food Regulation prepares a notice setting out the decision and reasons for rejecting a draft standard or draft variation.
+88,give_copy,Forum_on_Food_Regulation,Authority,The Forum on Food Regulation gives the Authority a copy of the notice of rejection.
+88,publish_notice,Forum_on_Food_Regulation,internet,The Forum on Food Regulation publishes a copy of the notice of rejection on the internet.
+88,give_public_notice,Authority,Forum_on_Food_Regulation_notice,The Authority must give public notice of the Forum on Food Regulation's notice upon receiving a copy of it.
+89,publication_requirement,Authority,Gazette,The Authority must publish a copy of the notice in the Gazette.
+89,publication_requirement,Authority,New Zealand Gazette,The Authority must publish a copy of the notice in the New Zealand Gazette.
+89,publication_requirement,Authority,Authority's website,The Authority must publish a copy of the notice and the text of the draft or the amended draft on the Authority's website.
+90,effective_date_specified_by,standard_or_variation,notice_given_under_section_92,The effective date of a standard or variation is specified by the notice given under section 92.
+91,is_legislative_instrument,section_94,section_92,Standards and variations published under section 92 are legislative instruments as per section 94.
+91,exemption,section_94,section_42,Standards and variations are exempt from disallowance under Section 42 of the Legislation Act 2003.
+91,exemption,section_94,Part_4_of_Chapter_3,Standards and variations are exempt from sunsetting under Part 4 of Chapter 3 of the Legislation Act 2003.
+91,specifies_exemption,section_44(1),section_42,Subsection 44(1) specifies the exemption of standards and variations from disallowance under Section 42.
+91,specifies_exemption,section_54(1),Part_4_of_Chapter_3,Subsection 54(1) specifies the exemption of standards and variations from sunsetting under Part 4 of Chapter 3.
+92,can_declare,Authority,urgent_application,The Authority can declare an application as an urgent application.
+92,can_declare,Authority,urgent_proposal,The Authority can declare a proposal as an urgent proposal.
+92,aims_to_protect,Authority,public_health_and_safety,The Authority declares applications or proposals as urgent to protect public health and safety.
+92,address,Authority,negative_impact_on_trade,The Authority declares applications or proposals as urgent to address negative impacts on trade.
+92,must_receive_copy,Forum_on_Food_Regulation,public_notice_of_declaration,The Forum on Food Regulation must receive a copy of the urgent declaration.
+92,must_receive_copy,appropriate_government_agency,public_notice_of_declaration,Appropriate government agencies must receive a copy of the urgent declaration.
+92,must_receive_copy,applicant,public_notice_of_declaration,The applicant must receive a copy of the urgent declaration if it relates to their application.
+92,seek_publicity,Authority,media_publicity,The Authority must seek media publicity about the urgent application or proposal.
+92,are_exempt,urgent_application,exemptions_for_urgent_application_proposal,An urgent application is exempt from certain subdivisions and divisions of the Act.
+92,are_exempt,urgent_proposal,exemptions_for_urgent_application_proposal,An urgent proposal is exempt from certain subdivisions and divisions of the Act.
+92,is_exempt_from,urgent_application,no_charge_under_section_146,No charge is payable for an urgent application under section 146.
+93,considers,Authority,urgent_application,The Authority considers urgent applications to prepare draft standards or variations.
+93,considers,Authority,urgent_proposal,The Authority considers urgent proposals to prepare draft standards or variations.
+93,prepares,Authority,draft_standard,The Authority prepares a draft standard after considering an urgent application or proposal.
+93,prepares,Authority,draft_variation,The Authority prepares a draft variation of a standard after considering an urgent application or proposal.
+93,gives,Authority,public_notice,The Authority gives public notice of the draft standard or variation prepared.
+93,specifies,public_notice,submission_period,The public notice specifies the submission period for written submissions on the draft standard or variation.
+93,publishes,Authority,public_notice,The Authority publishes the public notice on its website.
+94,consideration,Authority,draft_standard_or_variation,The Authority must consider the draft standard or variation for approval.
+94,approval,Authority,draft_standard_or_variation,"The Authority may approve the draft standard or variation with or without amendments, or abandon the draft."
+94,publication,Authority,public_notice_of_approval,The Authority must give public notice of the approval of a draft standard or variation.
+94,effectiveness,public_notice_of_approval,legislative_instrument,The standard or variation becomes effective on the day specified in the public notice of approval.
+94,non_delegation,Board,Authority,The Board must not delegate its powers to act on behalf of the Authority under subsection 1.
+95,applies_if,Subdivision,Authority,The Subdivision applies if the Authority approves a draft standard or a draft variation of a standard.
+95,action_under,Authority,section_97,The Authority approves a draft standard or a draft variation of a standard under Section 97.
+96,assess,Authority,standard_or_variation,The Authority must assess the standard or variation.
+96,consider,Authority,costs_and_benefits,"In assessing the standard or variation, the Authority must consider whether costs outweigh benefits."
+96,consider,Authority,alternative_measures,The Authority must consider if there are more cost-effective measures than the standard or variation.
+96,consider,Authority,New_Zealand_standards,The Authority must take into account all relevant New Zealand standards in their assessment.
+96,consider,Authority,other_relevant_matters,The Authority must consider any other relevant matters in the assessment of the standard or variation.
+96,reference,section_99,section_18,Section 99 refers to Section 18 for the objectives of the Authority in developing food regulatory measures and variations.
+97,call_for_submissions,Authority,standard_or_variation,The Authority must call for submissions on the standard or variation by giving public notice.
+97,specify_period,Authority,submission_period,The Authority must specify the submission period for written submissions in the public notice.
+97,require_submission,standard_or_variation,submission_period,Written submissions for the standard or variation must be given to the Authority within the submission period.
+98,review,Authority,standard_or_variation,The Authority must review and either re-affirm or propose changes to the standard or variation within 12 months after it takes effect.
+98,consideration,Authority,submission_period,The Authority must take into account all submissions made during the submission period when making a decision.
+98,notification,Authority,Forum_on_Food_Regulation,The Authority must notify the Forum on Food Regulation of its decision within 10 business days after making a decision.
+98,includes,Authority,Regulation_Impact_Statement,The report to the Forum on Food Regulation may include a Regulation Impact Statement if applicable.
+98,direction,Forum_on_Food_Regulation,Authority,The Forum on Food Regulation may direct the Authority to provide information to assist the Forum in making a decision about the standard or variation.
+99,request_review,Forum_on_Food_Regulation,Authority,The Forum on Food Regulation may request the Authority to review the standard or variation.
+99,notify,Authority,Forum_on_Food_Regulation,The Authority notifies the Forum on Food Regulation when it has re-affirmed its approval of the standard or variation.
+99,compliance,Forum_on_Food_Regulation,Food_Regulation_Agreement,The Forum on Food Regulation must comply with the Food Regulation Agreement when exercising its powers.
+99,compliance,Forum_on_Food_Regulation,Australia_New_Zealand_Joint_Food_Standards_Agreement,The Forum on Food Regulation must comply with the Australia New Zealand Joint Food Standards Agreement when exercising its powers.
+100,request_review,Forum_on_Food_Regulation,Authority,The Forum on Food Regulation can request the Authority to review a standard or variation.
+100,provide_concerns,Forum_on_Food_Regulation,Authority,"When requesting a review, the Forum must inform the Authority of the Forum's concerns with the standard or variation."
+100,give_directions,Forum_on_Food_Regulation,Authority,The Forum on Food Regulation may give directions to the Authority in relation to the conduct of a review of a standard or variation.
+100,not_legislative_instrument,direction_under_subsection_2,NA,A direction under subsection (2) is not considered a legislative instrument.
+101,request_review,Forum_on_Food_Regulation,Authority,The Forum on Food Regulation can request the Authority to review the standard or variation.
+101,conduct_review,Authority,subsection_103(2),The Authority conducts the review subject to any directions given under subsection 103(2).
+101,complete_review,Authority,Forum_on_Food_Regulation,The Authority must complete the review and make a decision within 3 months or a longer period if allowed by the Forum.
+101,make_decision,Authority,subsection_55,"After completing a review, the Authority must either re-affirm its decision to approve the standard or variation, or prepare a proposal under section 55."
+101,provide_notice,Authority,Forum_on_Food_Regulation,The Authority must give written notice of its decision and reasons to the Forum on Food Regulation within 10 business days after making its decision.
+101,non_delegation,section_150,Authority,The Board must not delegate its powers to act on behalf of the Authority under subsection (2) as per section 150.
+102,notifies,Authority,Forum_on_Food_Regulation,The Authority notifies the Forum on Food Regulation about the decision to re-affirm the standard or variation.
+102,must_decide,Forum_on_Food_Regulation,Authority,The Forum on Food Regulation must decide whether to revoke or amend the standard or variation and inform the Authority.
+102,publish,Forum_on_Food_Regulation,Gazette,The Forum on Food Regulation must publish a notice of revocation or amendment in the Gazette.
+102,publish,Forum_on_Food_Regulation,New_Zealand_Gazette,The Forum on Food Regulation must publish a notice of revocation or amendment in the New Zealand Gazette.
+102,exemption,Legislation_Act_2003,Forum_on_Food_Regulation,Section 42 (disallowance) and Part 4 of Chapter 3 (sunsetting) of the Legislation Act 2003 do not apply to the instrument of revocation or amendment made by the Forum on Food Regulation.
+102,provide_draft,Forum_on_Food_Regulation,Authority,"Before amending the standard or variation, the Forum on Food Regulation must give the Authority an opportunity to submit a draft of the text of the amendment."
+102,publish_notice,Authority,Gazette,The Authority must publish a notice stating that the revocation or amendment is to come into effect on the specified date in the Gazette.
+102,publish_notice,Authority,New_Zealand_Gazette,The Authority must publish a notice stating that the revocation or amendment is to come into effect on the specified date in the New Zealand Gazette.
+103,conduct,Authority,NA,The Authority is not bound to act in a formal manner.
+103,conduct,Authority,NA,The Authority is not bound by the rules of evidence.
+103,conduct,Authority,NA,The Authority may inform itself on any matter in such manner as it thinks fit.
+103,conduct,Authority,NA,The Authority may receive written or oral information or submissions.
+103,conduct,Authority,NA,The Authority may consult with such persons as it thinks fit.
+104,requests_information_from,Authority,application,The Authority may request further information from the applicant of an application.
+104,assess_and_develop,Authority,food_regulatory_measure,The Authority assesses applications and develops or varies food regulatory measures.
+104,determine_charge,Authority,charge_under_section_146,The Authority determines whether a charge under section 146 is payable in relation to an application.
+104,has_consequence,withdrawn_application,public_notice_of_application,"If an application is withdrawn after public notice has been given, the Authority must give public notice that the application is withdrawn."
+104,considered_as,application,withdrawn_application,An application is considered as withdrawn if the applicant does not comply with the Authority's request for further information.
+104,must_notify,Authority,withdrawn_application,The Authority must give written notice to the applicant if their application is taken to have been withdrawn.
+105,responsible_for,Authority,consideration_period,The Authority is responsible for completing the consideration of applications within the consideration period.
+105,condition_for,exclusive_capturable_commercial_benefit,consideration_period,The consideration period begins when a charge related to an application conferring an exclusive capturable commercial benefit is paid.
+105,condition_for,expedited_consideration,consideration_period,The consideration period begins when a charge related to an application for expedited consideration is paid.
+105,triggers,assessment_of_application,consideration_period,The consideration period begins on the day the Authority begins its assessment of the application.
+105,allows,Authority,extension_of_consideration_period,The Authority may extend the consideration period for the development of a new standard or a major variation.
+105,involves,stopping_the_clock,consideration_period,The consideration period is paused during certain events as described in the 'stopping the clock' procedure.
+105,notify,Forum_on_Food_Regulation,Authority,"The Forum on Food Regulation may notify the Authority of formulating policy guidelines, which can lead to the suspension of consideration of applications."
+105,may_cause,suspension_of_consideration,consideration_period,The suspension of consideration of an application may affect the consideration period.
+106,rejects_application,Authority,food_regulatory_measure,The Authority has the power to reject applications for the development or variation of food regulatory measures.
+106,must_notify_applicant,Authority,food_regulatory_measure,The Authority must notify the applicant in writing of the rejection and the reasons for the rejection.
+106,must_give_public_notice,Authority,section_28,The Authority must give public notice of the rejection and the reasons for the rejection if it occurs after public notice is given under section 28.
+106,must_give_public_notice,Authority,section_51,The Authority must give public notice of the rejection and the reasons for the rejection if it occurs after public notice is given under section 51.
+106,must_notify_forum,Authority,Forum_on_Food_Regulation,The Authority must notify the Forum on Food Regulation in writing of the rejection if a draft food regulatory measure or a draft variation has been prepared as a result of the application.
+106,must_refund,Authority,section_146,"The Authority must refund the applicant the portion of the charge not expended from the charge, calculated in accordance with the regulations, if the application is rejected after a charge has been paid under section 146."
+106,abandons_proposal,Authority,standard,The Authority has the power to abandon proposals for the development or variation of a standard.
+106,must_give_public_notice,Authority,section_58,The Authority must give public notice of the abandonment and the reasons for the abandonment if it occurs after public notice is given under section 58.
+106,must_give_public_notice,Authority,section_75,The Authority must give public notice of the abandonment and the reasons for the abandonment if it occurs after public notice is given under section 75.
+106,must_notify_forum,Authority,Forum_on_Food_Regulation,The Authority must notify the Forum on Food Regulation in writing of the abandonment if a draft food regulatory measure or a draft variation has been prepared as a result of the proposal.
+107,has_discretion,Authority,public_hearing,The Authority has the discretion to conduct a public hearing.
+107,excludes,public_hearing,high_level_health_claims_variation,Public hearings exclude applications for a high level health claims variation.
+107,may_direct,Authority,private_hearing_part,The Authority may direct that any part of the hearing be held in private.
+107,may_issue,Authority,direction_prohibiting_publication,The Authority may issue directions to prohibit or restrict the publication of evidence or documents related to the hearings or reviews of draft measures.
+107,is_not,direction_prohibiting_publication,legislative_instrument,A direction under subsection (3) is not a legislative instrument.
+108,may_not_perform_action,Authority,section_22,The Authority may decide not to perform actions required under section 22 to avoid duplication of work.
+108,may_not_perform_action,Authority,section_55,The Authority may decide not to perform actions required under section 55 to avoid duplication of work.
+108,requires_public_notice,Authority,section_28,The Authority must give public notice of its decision if it relates to an application under section 28.
+108,requires_public_notice,Authority,section_51,The Authority must give public notice of its decision if it relates to an application under section 51.
+108,requires_public_notice,Authority,section_58,The Authority must give public notice of its decision if it relates to a proposal under section 58.
+108,requires_public_notice,Authority,section_75,The Authority must give public notice of its decision if it relates to a proposal under section 75.
+108,requires_notice_to_applicant,Authority,section_22,The Authority must give notice of its decision to the applicant if public notice has not been given under section 28 or 51.
+108,identifies_agency,Authority,government_agency,The public notice must identify the government agency that has done the work or gone through the process.
+109,request_review,Forum_on_Food_Regulation,Authority,The Forum on Food Regulation can request the Authority to review a standard.
+109,must_review,Authority,standard,The Authority must review the standard when requested by the Forum on Food Regulation.
+109,give_directions,Forum_on_Food_Regulation,Authority,The Forum on Food Regulation may give directions to the Authority in relation to the conduct of a review.
+109,complete_review,Authority,standard,The Authority must complete the review of a standard within 3 months or a longer period if allowed by the Forum.
+109,notify_result,Authority,Forum_on_Food_Regulation,"After completing a review, the Authority must notify the Forum on Food Regulation of the result."
+109,prepare_proposal,Authority,food_regulatory_measure,The Authority may prepare a proposal for the development of a new food regulatory measure in substitution for the one reviewed.
+109,equivalent_to,proposal_under_section_55,food_regulatory_measure,A proposal prepared by the Authority after a review is treated as if it were a proposal under section 55.
+110,duty_not_to_disclose,Board_member,Confidential_commercial_information,Board members have a duty not to disclose confidential commercial information.
+110,duty_not_to_disclose,Authority_staff_member,Confidential_commercial_information,Staff members of the Authority have a duty not to disclose confidential commercial information.
+110,duty_not_to_disclose,Committee_member,Confidential_commercial_information,Committee members have a duty not to disclose confidential commercial information.
+110,duty_not_to_disclose,Consultant,Confidential_commercial_information,Consultants engaged under section 136 have a duty not to disclose confidential commercial information.
+110,permission_to_disclose,Chief_Executive_Officer,Confidential_commercial_information,The Chief Executive Officer may disclose confidential commercial information under certain conditions.
+110,authorization_to_disclose,Minister,Confidential_commercial_information,The Minister can certify the necessity in the public interest for the disclosure of confidential information.
+110,obligated_by_duty,Prescribed_authority_or_person,Confidential_commercial_information,"Prescribed authorities or persons are subject to the same obligations as Board members, staff, committee members, and consultants regarding the non-disclosure of confidential information."
+110,permitted_disclosure,Agency_Head,Confidential_commercial_information,Agency Heads may be permitted to have confidential commercial information disclosed to them.
+110,permitted_disclosure,Commonwealth_authority_Chief_Officer,Confidential_commercial_information,Chief Officers of Commonwealth authorities may be permitted to have confidential commercial information disclosed to them.
+110,permitted_disclosure,State_or_Territory_Department_Secretary,Confidential_commercial_information,Secretaries of Departments of the Public Service of a State or Territory may be permitted to have confidential commercial information disclosed to them.
+110,permitted_disclosure,State_or_Territory_authority_Chief_Officer,Confidential_commercial_information,Chief Officers of State or Territory authorities may be permitted to have confidential commercial information disclosed to them.
+110,permitted_disclosure,New_Zealand_Department_chief_executive,Confidential_commercial_information,Chief executives of Departments of State of New Zealand may be permitted to have confidential commercial information disclosed to them.
+110,permitted_disclosure,New_Zealand_authority_Chief_Officer,Confidential_commercial_information,Chief Officers of New Zealand authorities may be permitted to have confidential commercial information disclosed to them.
+110,permitted_disclosure,Other_authority_or_body_Chief_Officer,Confidential_commercial_information,Chief Officers of other authorities or bodies may be permitted to have confidential commercial information disclosed to them.
+110,disclosure_to_court,Confidential_commercial_information,Court,Confidential commercial information can be disclosed to a court in any proceeding.
+111,conducts_affairs,Board_of_Food_Standards_Australia_New_Zealand,Authority,The Board of Food Standards Australia New Zealand conducts the affairs of the Authority.
+111,acts_on_behalf,Board_of_Food_Standards_Australia_New_Zealand,Authority,"All acts and things done in the name of, or on behalf of, the Authority by the Board or with the authority of the Board are taken to have been done by the Authority."
+111,includes_state_of_mind,Board_of_Food_Standards_Australia_New_Zealand,Authority,A reference to a thing done by the Board includes a reference to a state of mind attained or an opinion formed.
+112,member_of,Chairperson,Board,The Chairperson is a part-time member of the Board.
+112,member_of,Chief_Executive_Officer,Board,The Chief Executive Officer is automatically a member of the Board.
+112,nominates,New_Zealand_lead_Minister,Board,The New Zealand lead Minister nominates members to the Board.
+112,nominates,Consumer_organisations,Board,Consumer organisations nominate a member to the Board.
+112,nominates,CEO_of_NHMRC,Board,The CEO of the National Health and Medical Research Council nominates a member to the Board.
+112,nominates,Science_and_Public_Health_Organisations,Board,Organisations related to science and public health nominate members to the Board.
+112,nominates,Food_Industry_Organisations,Board,Organisations related to the food industry nominate members to the Board.
+112,appoints,Minister,Board,The Minister appoints members to the Board.
+112,agrees_to_appointment,Forum_on_Food_Regulation,Board,The Forum on Food Regulation must agree to the appointment of certain members of the Board.
+113,appointment,Minister,member,The Minister appoints members and specifies the effective day of their appointment.
+113,term_limit,member,Minister,"Members hold office for a period specified by the Minister, not exceeding 4 years, and are eligible for reappointment for a second term."
+113,eligibility,Chairperson,Minister,The Minister must not appoint a person as the Chairperson if they were employed by or had a pecuniary interest in a relevant food production or manufacture body corporate within the last 2 years.
+113,publication,Authority,member,The Authority publishes notices in the Gazette when subsection (5) begins or ceases to apply to a member.
+114,establish_committee,Board,Committee,The Board may establish committees to assist in carrying out its functions.
+114,abolish_committee,Board,Committee,The Board may abolish committees.
+114,committee_recommendation,Committee,Authority,Committees make recommendations on applications or proposals for a high level health claims variation to the Authority.
+114,direction_by_forum,Forum_on_Food_Regulation,Authority,The Authority must comply with any directions given by the Forum on Food Regulation.
+114,inform_forum,Board,Forum_on_Food_Regulation,The Board must keep the Forum on Food Regulation informed of the establishment or abolition of a committee and any directions given to a committee.
+115,entitled_to,Board_members,Remuneration_Tribunal,Board members are entitled to remuneration as determined by the Remuneration Tribunal or as prescribed if no determination is in force.
+115,entitled_to,Committee_members,Remuneration_Tribunal,Committee members are entitled to remuneration as determined by the Remuneration Tribunal or as prescribed if no determination is in force.
+115,subject_to,Board_members,Remuneration_Tribunal_Act_1973,The remuneration and allowances of Board members are subject to the Remuneration Tribunal Act 1973.
+115,subject_to,Committee_members,Remuneration_Tribunal_Act_1973,The remuneration and allowances of committee members are subject to the Remuneration Tribunal Act 1973.
+115,not_entitled_to,Board_members,Remuneration_Tribunal,"Board members are not entitled to remuneration under this Act if they are in full-time service or employment of the Commonwealth, a State, a Territory or New Zealand."
+115,not_entitled_to,Committee_members,Remuneration_Tribunal,"Committee members are not entitled to remuneration under this Act if they are in full-time service or employment of the Commonwealth, a State, a Territory or New Zealand."
+116,grant_leave_of_absence,Minister,Chairperson,The Minister may grant leave of absence to the Chairperson with terms and conditions determined by the Minister.
+116,grant_leave_of_absence,Chairperson,Member,The Chairperson may grant leave of absence to any other member with terms and conditions determined by the Chairperson.
+117,appointment_authority,Minister,Chairperson,The Minister has the authority to appoint an acting Chairperson.
+117,appointment_authority,Minister,Member,The Minister has the authority to appoint an acting member.
+117,reference,FOOD STANDARDS AUSTRALIA NEW ZEALAND ACT 1991 - SECT 121,Acts Interpretation Act 1901,The FOOD STANDARDS AUSTRALIA NEW ZEALAND ACT 1991 - SECT 121 references the Acts Interpretation Act 1901 for rules that apply to acting appointments.
+118,convene_meeting,Chairperson,Board,The Chairperson may convene a Board meeting at any time and must do so upon request by Board members.
+118,preside_meeting,Chairperson,Board,The Chairperson presides at all Board meetings when present.
+118,appoint_presiding_member,Board_members,Board,"If the Chairperson is not present at a meeting, the Board members present must appoint one of their number to preside."
+118,quorum,Board_members,Board,A majority of the Board members constitute a quorum for the Board.
+118,voting,Board_members,Board,Questions at a Board meeting are determined by a majority of votes of the members present and voting.
+118,voting_rights,Chairperson,Board,"The person presiding at a Board meeting has a deliberative vote and, if necessary, also a casting vote."
+119,regulation,Board,meeting_participation_methods,The Board is authorized to permit members to participate in meetings using various communication methods.
+119,equivalence,meeting_participation_methods,Board,Members participating in meetings through the specified communication methods are regarded as being present at the meeting.
+120,agreement_method,Board,subsection_122(5),The Board can pass a resolution without a formal meeting if a majority of members indicate agreement with the resolution in a method determined by the Board and that majority would constitute a quorum as per subsection 122(5).
+121,disclosure_of_interest,Board_member,Minister,A Board member must disclose any material personal interest to the Minister.
+121,legal_requirement,Board,Public_Governance_Performance_and_Accountability_Act_2013,"The Board's requirement to establish a system for the declaration and registration of interests is in addition to the requirements of the Public Governance, Performance and Accountability Act 2013."
+121,publication_requirement,Board,Authority_website,The Board must publish the register of members' interests on the Authority's website.
+122,resignation,member,Minister,A member may resign by delivering a written instrument of resignation to the Minister
+123,can_terminate_appointment_for,Minister,member,The Minister can terminate the appointment of a Board Member for misbehaviour or physical or mental incapacity.
+123,can_terminate_appointment_for,Minister,Chairperson,The Minister can terminate the appointment of the Chairperson for engaging in paid employment without approval or being absent without leave.
+123,reference,FOOD STANDARDS AUSTRALIA NEW ZEALAND ACT 1991 - SECT 127,"Public Governance, Performance and Accountability Act 2013 - SECT 30","Section 127 of the Act references Section 30 of the Public Governance, Performance and Accountability Act 2013 for additional grounds for termination."
+124,appointment,Board,Chief_Executive_Officer_of_the_Authority,The Board appoints the Chief Executive Officer of the Authority.
+124,employment_restriction,Chief_Executive_Officer_of_the_Authority,body_corporate_involved_in_food_production_or_manufacture,The Chief Executive Officer of the Authority must not have been employed by a body corporate involved in food production or manufacture within 2 years before the appointment.
+124,pecuniary_interest_restriction,Chief_Executive_Officer_of_the_Authority,body_corporate_involved_in_food_production_or_manufacture,The Chief Executive Officer of the Authority must not have a pecuniary interest in a body corporate involved in food production or manufacture.
+125,responsible_for,Chief_Executive_Officer,Authority,The Chief Executive Officer is responsible for the administration and operations of the Authority.
+125,act_in_accordance_with,Chief_Executive_Officer,Board,The Chief Executive Officer must act in accordance with the policies and directions given by the Board.
+125,not_authorised_to_act,Chief_Executive_Officer,Authority,The Chief Executive Officer is not authorised to act on behalf of the Authority under specific subsections and paragraphs of the Act.
+126,delegation,Chief_Executive_Officer,Authority_staff_member,The Chief Executive Officer may delegate all or any of the functions or powers to a member of the staff of the Authority.
+127,determines_remuneration,Remuneration_Tribunal,Chief_Executive_Officer,The Remuneration Tribunal determines the remuneration of the Chief Executive Officer when its determination is in operation.
+127,determines_remuneration,Board,Chief_Executive_Officer,The Board determines the remuneration of the Chief Executive Officer when no determination by the Remuneration Tribunal is in operation.
+127,determines_allowances,Board,Chief_Executive_Officer,The Board determines the allowances of the Chief Executive Officer.
+127,subject_to,Chief_Executive_Officer,Remuneration_Tribunal_Act_1973,The remuneration and allowances of the Chief Executive Officer are subject to the Remuneration Tribunal Act 1973.
+128,submission_of_resignation,Chief_Executive_Officer,Board,The Chief Executive Officer submits a written resignation to the Board to resign.
+129,authority,Board,Chief_Executive_Officer,The Board has the authority to determine the terms and conditions of the Chief Executive Officer's office.
+130,appointment_authority,Board,Acting_Chief_Executive_Officer,The Board has the authority to appoint an Acting Chief Executive Officer.
+130,acting_role,Acting_Chief_Executive_Officer,Chief_Executive_Officer,The Acting Chief Executive Officer fulfills the role of the Chief Executive Officer when necessary.
+130,reference,FOOD STANDARDS AUSTRALIA NEW ZEALAND ACT 1991 - SECT 134,Acts_Interpretation_Act_1901,Section 134 of the Food Standards Australia New Zealand Act 1991 refers to the Acts Interpretation Act 1901 for rules on acting appointments.
+131,employment,Authority,APS_employees,The staff of the Authority are persons engaged under the Public Service Act 1999.
+131,constitution,Chief_Executive_Officer_of_Authority,Statutory_Agency,The Chief Executive Officer and the APS employees assisting the Chief Executive Officer together constitute a Statutory Agency.
+131,leadership,Chief_Executive_Officer_of_Authority,Statutory_Agency,The Chief Executive Officer is the Head of the Statutory Agency.
+132,employer,Authority,Chief_Executive_Officer,The Authority is the employer of the Chief Executive Officer.
+132,authority_to_engage,Chief_Executive_Officer,Consultants,The Chief Executive Officer has the authority to engage consultants on behalf of the Authority.
+132,determines_terms,Chief_Executive_Officer,Consultants,The Chief Executive Officer determines the terms and conditions of engagement for consultants.
+133,arrangement,Authority,Agency_Head,The Authority may make arrangements with an Agency Head for services or advice.
+133,arrangement,Authority,Commonwealth_authority_Chief_Officer,The Authority may make arrangements with the Chief Officer of any Commonwealth authority for services or advice.
+133,arrangement,Authority,State_Territory_Department_Secretary,The Authority may make arrangements with the Secretary of a Department of the Public Service of a State or Territory for services or advice.
+133,arrangement,Authority,State_Territory_authority_Chief_Officer,The Authority may make arrangements with the Chief Officer of a State or Territory authority for services or advice.
+133,arrangement,Authority,New_Zealand_Department_chief_executive,The Authority may make arrangements with the chief executive of a Department of State of New Zealand for services or advice.
+133,arrangement,Authority,New_Zealand_authority_Chief_Officer,The Authority may make arrangements with the Chief Officer of a New Zealand authority for services or advice.
+133,arrangement,Authority,Other_authority_Chief_Officer,The Authority may make arrangements with the Chief Officer of any other authority or body for services or advice.
+134,appropriates_funds,Parliament,Authority,Parliament appropriates funds for the purposes of the Authority.
+134,gives_directions,Finance_Minister,Authority,The Finance Minister gives directions on the amounts and times at which money is to be paid to the Authority.
+135,funding_source,section_138,Authority,Section 138 is a source of money for the Authority.
+135,funding_source,section_145,Authority,Section 145 is a source of money for the Authority.
+135,funding_source,section_146,Authority,Section 146 is a source of money for the Authority.
+135,funding_source,section_147,Authority,Section 147 is a source of money for the Authority.
+135,financial_management,Authority,section_59_Public_Governance_Performance_and_Accountability_Act_2013,"The Authority is permitted to invest money under Section 59 of the Public Governance, Performance and Accountability Act 2013."
+136,exemption,Authority,Commonwealth,The Authority is not subject to taxation under any law of the Commonwealth
+136,exemption,Authority,State,The Authority is not subject to taxation under any law of a State
+136,exemption,Authority,Territory,The Authority is not subject to taxation under any law of a Territory
+137,receive_trust_money,Authority,Trust_money,The Authority may receive trust money for application towards a particular purpose consistent with its functions.
+137,manage_trust_money,Authority,Trust_money,The Authority must pay trust money into an account containing only trust money and must apply or deal with it only in accordance with its powers and duties as trustee.
+137,invest_trust_money,Authority,Trust_money,The Authority may invest trust money in any manner authorised by the terms of the trust or in any manner in which trust money may be lawfully invested.
+138,ownership,Authority,Commonwealth,Documents and samples given to the Authority become the property of the Commonwealth.
+138,authority,Authority,documents and samples,"The Authority has the discretion to deal with or dispose of documents and samples that become Commonwealth property, subject to section 114."
+138,legal_protection,Commonwealth,defamation_protection,"No action or proceeding for defamation lies against the Commonwealth, a member of the Board, or a person assisting the Authority, in relation to the publication or public inspection of a document that has become the property of the Commonwealth."
+139,reviewable_by,decision,Administrative Appeals Tribunal,Decisions made by the Authority under the FOOD STANDARDS AUSTRALIA NEW ZEALAND ACT 1991 can be reviewed by the Administrative Appeals Tribunal.
+139,defined_by,decision,Administrative Appeals Tribunal Act 1975,The term 'decision' as used in the context of the FOOD STANDARDS AUSTRALIA NEW ZEALAND ACT 1991 - SECT 143 is defined by the Administrative Appeals Tribunal Act 1975.
+139,applies_to,Administrative Appeals Tribunal Act 1975,Administrative Appeals Tribunal,The Administrative Appeals Tribunal Act 1975 applies to the Administrative Appeals Tribunal in the context of reviewing decisions under the FOOD STANDARDS AUSTRALIA NEW ZEALAND ACT 1991.
+140,may_apply_for_review,applicant,Administrative Appeals Tribunal,The applicant may apply to the Administrative Appeals Tribunal for review of the decision if it is a decision of a kind referred to in paragraph 143(1)(a).
+140,may_apply_for_review,person_affected_by_decision,Administrative Appeals Tribunal,A person whose interests are affected by the decision may apply to the Administrative Appeals Tribunal for review of the decision if it is a decision of the kind referred to in paragraph 143(1)(b).
+140,may_request_statement,person_affected_by_decision,Administrative Appeals Tribunal Act 1975,"The person affected by the decision may make an application in accordance with section 28 of the Administrative Appeals Tribunal Act 1975 for a statement setting out the findings of material questions of fact, evidence or other materials on which those findings were based, and giving the reasons for the decision."
+140,decision_validity_not_affected,Administrative Appeals Tribunal,decision,Any failure to comply with the requirement of including a statement in the notice does not affect the validity of the decision.
+141,agreement,Authority,New Zealand lead Minister on the Forum on Food Regulation,The Authority may charge fees for services provided to New Zealand as agreed with the New Zealand lead Minister on the Forum on Food Regulation.
+142,is_governed_by,Authority,regulations,The Authority's ability to fix charges is governed by the regulations.
+142,has_obligation,regulations,charge,The regulations may fix charges for services and facilities provided by the Authority.
+142,exemption,New Zealand,charge,New Zealand is exempt from being specified as an entity responsible for paying charges under the regulations.
+142,is_related_to,three_year_plan,application_to_develop_or_vary_a_standard,The consideration of applications for developing or varying a standard must not displace the three year plan.
+142,has_condition,application_to_develop_or_vary_a_standard,charge,A charge may be fixed for an application to develop or vary a standard under certain conditions.
+143,liable_to_pay_penalty,charge_under_section_146,Authority,The body or person with an unpaid charge under section 146 is liable to pay a late payment penalty to the Authority.
+143,specifies,regulations,late_payment_penalty_rate,"The regulations may specify a late payment penalty rate, which is 20% per year or a lower percentage if determined by the regulations."
+143,recoverable_as_debt,Authority,late_payment_penalty_rate,The Authority may recover the late payment penalty as a debt due to it.
+144,provision_for_discount,sect_148,sect_146,Section 148 provides the possibility of regulations for discounts on the charge mentioned in section 146.
+145,provision_for_refund,regulations,subsection_24_2,Regulations provide the method for working out refunds of charge as per subsection 24(2).
+145,provision_for_remission_or_refund,regulations,section_146,Regulations provide for the remission or refund of charge under section 146.
+145,provision_for_remission,regulations,section_147,Regulations provide for the remission of late payment penalty under section 147.
+145,confers_power,regulations,Authority,Regulations may confer powers on the Authority for the purposes of subsections (1) or (2).
+146,delegation_of_power,Board,senior_member_of_the_staff_of_the_Authority,"The Board may delegate its powers to a senior member of the staff of the Authority, with certain exceptions."
+146,exception_to_delegation,Board,null,The Board cannot delegate its powers to act on behalf of the Authority under specific subsections and paragraphs of the Act.
+146,revocation_of_delegation,Board,null,A delegation of power may be revoked by resolution of the Board.
+146,continuity_of_delegation,Board,null,A delegation of power continues in force notwithstanding a change in the membership of the Board.
+146,evidence_of_delegation,Chairperson_of_the_Board,null,A certificate signed by the Chairperson stating any matter with respect to a delegation of power is prima facie evidence of that matter.
+146,direction_to_delegate,Board,senior_member_of_the_staff_of_the_Authority,A delegate is subject to any directions given by the Board in the exercise of a delegated power.
+147,exempt_from,Commonwealth,civil_or_criminal_proceedings,The Commonwealth is exempt from civil or criminal proceedings related to loss or injury from food consumption or dealing.
+147,exempt_from,Board_member,civil_or_criminal_proceedings,A member of the Board is exempt from civil or criminal proceedings related to loss or injury from food consumption or dealing.
+147,exempt_from,Person_assisting_the_Authority,civil_or_criminal_proceedings,A person assisting the Authority is exempt from civil or criminal proceedings related to loss or injury from food consumption or dealing.
+147,exempt_from,Authority,civil_or_criminal_proceedings,"The Authority is exempt from civil or criminal proceedings related to actions taken or not taken under the Act, provided they act honestly and reasonably."
+147,not_a_defence,Standard_compliance,civil_action,Compliance with a standard is not a defence in an action related to loss or injury from food consumption or dealing.
+148,reports_to,FOOD STANDARDS AUSTRALIA NEW ZEALAND ACT 1991 - SECT 152,"Public Governance, Performance and Accountability Act 2013","The annual report under Section 152 of the Food Standards Australia New Zealand Act 1991 is prepared under Section 46 of the Public Governance, Performance and Accountability Act 2013."
+148,includes,FOOD STANDARDS AUSTRALIA NEW ZEALAND ACT 1991 - SECT 152,section_22,The annual report includes the number of applications made under Section 22.
+148,includes,FOOD STANDARDS AUSTRALIA NEW ZEALAND ACT 1991 - SECT 152,subsection_26(1),The annual report includes the number of applications accepted or rejected under Subsection 26(1).
+148,includes,FOOD STANDARDS AUSTRALIA NEW ZEALAND ACT 1991 - SECT 152,subsection_24(1),The annual report includes the number of applications withdrawn under Subsection 24(1).
+148,includes,FOOD STANDARDS AUSTRALIA NEW ZEALAND ACT 1991 - SECT 152,section_29,The annual report includes the number of applications not assessed under Section 29.
+148,includes,FOOD STANDARDS AUSTRALIA NEW ZEALAND ACT 1991 - SECT 152,section_109,The annual report includes occasions where the consideration period under Section 109 elapsed without completion of the procedure.
+148,includes,FOOD STANDARDS AUSTRALIA NEW ZEALAND ACT 1991 - SECT 152,section_95,The annual report includes the number of urgent applications declared under Section 95.
+148,includes,FOOD STANDARDS AUSTRALIA NEW ZEALAND ACT 1991 - SECT 152,section_55,The annual report includes the number of proposals prepared under Section 55.
+148,includes,FOOD STANDARDS AUSTRALIA NEW ZEALAND ACT 1991 - SECT 152,section_59,The annual report includes the number of proposals not assessed under Section 59.
+148,includes,FOOD STANDARDS AUSTRALIA NEW ZEALAND ACT 1991 - SECT 152,section_101,The annual report includes occasions when no decision was made within the 12 month period referred to in Subsection 101(1).
+148,includes,FOOD STANDARDS AUSTRALIA NEW ZEALAND ACT 1991 - SECT 152,section_146,The annual report includes the number of applications with charges payable under Section 146.
+148,includes,FOOD STANDARDS AUSTRALIA NEW ZEALAND ACT 1991 - SECT 152,Administrative Appeals Tribunal,The annual report includes the number of applications made to the Administrative Appeals Tribunal for review of decisions of the Authority.
+148,includes,FOOD STANDARDS AUSTRALIA NEW ZEALAND ACT 1991 - SECT 152,section_33,The annual report includes the number of draft standards and draft variations approved under Section 33.
+148,includes,FOOD STANDARDS AUSTRALIA NEW ZEALAND ACT 1991 - SECT 152,section_82(6),The annual report includes the number of variations given to the Authority under Subsection 82(6).
+148,requests_review,Forum on Food Regulation,FOOD STANDARDS AUSTRALIA NEW ZEALAND ACT 1991 - SECT 152,The Forum on Food Regulation requests reviews of draft standards or draft variations and can reject or amend standards or variations as reported in the annual report.
+149,exemption,corporate_plan,Public_Governance_Performance_and_Accountability_Act_2013,"The corporate plan prepared by the members is exempt from subsection 35(3) of the Public Governance, Performance and Accountability Act 2013."
+150,can_make,Governor-General,food_regulatory_measure,The Governor-General can make regulations related to food regulatory measures.
+150,decides_on,Authority,food_regulatory_measure,"The Authority decides on accepting, rejecting, or proceeding with applications and proposals for food regulatory measures."
+150,calls_for,Authority,public_submissions,The Authority calls for public submissions during the process of considering applications and proposals.
+150,considers,Forum_on_Food_Regulation,food_regulatory_measure,The Forum on Food Regulation considers the standards or variations before they are published and come into effect.
+150,revokes_or_varies,Authority,code_of_practice,The Authority has the power to revoke or vary codes of practice.
+150,notifies,Authority,Forum_on_Food_Regulation,The Authority notifies the Forum on Food Regulation of the approval of draft standards or variations.
