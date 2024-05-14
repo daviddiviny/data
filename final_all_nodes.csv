@@ -1,49 +1,47 @@
 section,id,type,name,description
-1,Food Standards Australia New Zealand Act 1991,legislation,Food Standards Australia New Zealand Act 1991,This Act may be cited as the Food Standards Australia New Zealand Act 1991.
-2,Commencement,legislation,Commencement,"This section of the Act specifies the commencement date of the Act, which is subject to proclamation or a set time period after Royal Assent."
-3,Food Standards Australia New Zealand,organization,Food Standards Australia New Zealand,A joint body established to ensure a high standard of public health protection throughout Australia and New Zealand.
-3,consumer confidence,concept,Consumer Confidence,"A high degree of consumer confidence in the quality and safety of food produced, processed, sold or exported from Australia and New Zealand."
-3,regulatory framework,concept,Regulatory Framework,"An effective, transparent and accountable regulatory framework within which the food industry can work efficiently."
-3,consumer information,concept,Consumer Information,The provision of adequate information relating to food to enable consumers to make informed choices.
-3,common rules,concept,Common Rules,The establishment of common rules for both countries and the promotion of consistency between domestic and international food regulatory measures without reducing the safeguards applying to public health and consumer protection.
-4,Agvet Code,legislation,Agricultural and Veterinary Chemicals Code,The Code set out in the Schedule to the Agricultural and Veterinary Chemicals Code Act 1994 of the Commonwealth.
-4,appropriate government agency,entity,Appropriate Government Agency,"An entity that is either a relevant Department of State administered by a Minister who is a member of the Forum on Food Regulation, a body with an officer on the Food Regulation Standing Committee, or any other body or officer that the Authority considers has a particular interest in the relevant matter."
-4,APVMA,organization,Australian Pesticides and Veterinary Medicines Authority,The authority continued in existence by section 6 of the Agricultural and Veterinary Chemicals (Administration) Act 1992.
-4,Australia New Zealand Food Standards Code,regulation,Australia New Zealand Food Standards Code,The code published under the name Food Standards Code on 27 August 1987 with any amendments approved by a former Council before the Act commenced or made under this Act.
-4,Australia New Zealand Joint Food Standards Agreement,agreement,Australia New Zealand Joint Food Standards Agreement,"The Agreement between the Government of Australia and the Government of New Zealand Establishing a System for the Development of Joint Food Standards, signed on 5 December 1995, as amended."
-4,Authority,organization,Food Standards Australia New Zealand,The organization referred to as Food Standards Australia New Zealand.
-4,Board,organization,Board of the Authority,The Board of Food Standards Australia New Zealand.
-4,Chief Officer,role,Chief Officer,"The person responsible for the Executive Officer or Chief Executive Officer role of a Commonwealth, State, Territory or New Zealand authority, or the person responsible for the day to day management of any other authority or body."
-4,code of practice,regulation,Code of Practice,"A code of practice developed by the Authority under Part 3, which is not a standard."
-4,Commonwealth authority,entity,Commonwealth Authority,"A body established by the Commonwealth, or by or under a law of the Commonwealth."
-4,confidential commercial information,concept,Confidential Commercial Information,Information relating to food that is a trade secret or has commercial value that would be destroyed or diminished if disclosed.
-4,Finance Minister,person,"Minister administering the Public Governance, Performance and Accountability Act 2013","The Minister responsible for administering the Public Governance, Performance and Accountability Act 2013."
+1,food_standards_australia_new_zealand_act_1991,legislation,Food Standards Australia New Zealand Act 1991,This Act may be cited as the Food Standards Australia New Zealand Act 1991.
+2,commencement,legislation,Commencement,"This section of the Act specifies the commencement date of the Act, which is subject to proclamation or a set time period after Royal Assent."
+3,food_standards_australia_new_zealand,organization,Food Standards Australia New Zealand,A joint body established to ensure a high standard of public health protection throughout Australia and New Zealand.
+3,consumer_confidence,concept,Consumer Confidence,"A high degree of consumer confidence in the quality and safety of food produced, processed, sold or exported from Australia and New Zealand."
+3,regulatory_framework,concept,Regulatory Framework,"An effective, transparent and accountable regulatory framework within which the food industry can work efficiently."
+3,consumer_information,concept,Consumer Information,The provision of adequate information relating to food to enable consumers to make informed choices.
+3,common_rules,concept,Common Rules,The establishment of common rules for both countries and the promotion of consistency between domestic and international food regulatory measures without reducing the safeguards applying to public health and consumer protection.
+4,agvet_code,legislation,Agricultural and Veterinary Chemicals Code,The Code set out in the Schedule to the Agricultural and Veterinary Chemicals Code Act 1994 of the Commonwealth.
+4,appropriate_government_agency,entity,Appropriate Government Agency,"An entity that is either a relevant Department of State administered by a Minister who is a member of the Forum on Food Regulation, a body with an officer on the Food Regulation Standing Committee, or any other body or officer that the Authority considers has a particular interest in the relevant matter."
+4,apvma,organization,Australian Pesticides and Veterinary Medicines Authority,The authority continued in existence by section 6 of the Agricultural and Veterinary Chemicals (Administration) Act 1992.
+4,australia_new_zealand_food_standards_code,regulation,Australia New Zealand Food Standards Code,The code published under the name Food Standards Code on 27 August 1987 with any amendments approved by a former Council before the Act commenced or made under this Act.
+4,australia_new_zealand_joint_food_standards_agreement,agreement,Australia New Zealand Joint Food Standards Agreement,"The Agreement between the Government of Australia and the Government of New Zealand Establishing a System for the Development of Joint Food Standards, signed on 5 December 1995, as amended."
+4,authority,organization,Food Standards Australia New Zealand,The organization referred to as Food Standards Australia New Zealand.
+4,board,organization,Board of the Authority,The Board of Food Standards Australia New Zealand.
+4,chief_officer,role,Chief Officer,"The person responsible for the Executive Officer or Chief Executive Officer role of a Commonwealth, State, Territory or New Zealand authority, or the person responsible for the day to day management of any other authority or body."
+4,code_of_practice,regulation,Code of Practice,"A code of practice developed by the Authority under Part 3, which is not a standard."
+4,commonwealth_authority,entity,Commonwealth Authority,"A body established by the Commonwealth, or by or under a law of the Commonwealth."
+4,confidential_commercial_information,concept,Confidential Commercial Information,Information relating to food that is a trade secret or has commercial value that would be destroyed or diminished if disclosed.
+4,finance_minister,person,"Minister administering the Public Governance, Performance and Accountability Act 2013","The Minister responsible for administering the Public Governance, Performance and Accountability Act 2013."
 4,food,concept,Food,As defined by section 5 of the Act.
-4,Food Regulation Agreement,agreement,Food Regulation Agreement,"The agreement between the Commonwealth, the States, the Northern Territory, and the Australian Capital Territory, first made on 3 November 2000 or any substitution for that agreement."
-4,Food Regulation Standing Committee,organization,Food Regulation Standing Committee,The Committee established under the Food Regulation Agreement.
-4,food regulatory measure,regulation,Food Regulatory Measure,A standard or a code of practice.
-4,former Council,organization,Former Council,"The Council of Commonwealth, State and Territory Ministers known as the National Food Standards Council or its reconstituted forms."
-4,Forum on Food Regulation,organization,Forum on Food Regulation,The Australia and New Zealand Ministerial Forum on Food Regulation established by the Food Regulation Agreement.
-4,High Level Health Claims Committee,organization,High Level Health Claims Committee,A committee established to give advice on applications or proposals to make a high level health claims variation.
-4,high level health claims variation,regulation,High Level Health Claims Variation,"A variation that changes the list of high level health claims that may be made under the Nutrition, Health and Related Claims Standard."
-4,Maximum Residue Limits Standard,regulation,Maximum Residue Limits Standard,"The Maximum Residue Limits Standard as in force from time to time, or any standard in force in substitution for that standard."
+4,food_regulation_agreement,agreement,Food Regulation Agreement,"The agreement between the Commonwealth, the States, the Northern Territory, and the Australian Capital Territory, first made on 3 November 2000 or any substitution for that agreement."
+4,food_regulation_standing_committee,organization,Food Regulation Standing Committee,The Committee established under the Food Regulation Agreement.
+4,food_regulatory_measure,regulation,Food Regulatory Measure,A standard or a code of practice.
+4,former_council,organization,Former Council,"The Council of Commonwealth, State and Territory Ministers known as the National Food Standards Council or its reconstituted forms."
+4,forum_on_food_regulation,organization,Forum on Food Regulation,The Australia and New Zealand Ministerial Forum on Food Regulation established by the Food Regulation Agreement.
+4,high_level_health_claims_committee,organization,High Level Health Claims Committee,A committee established to give advice on applications or proposals to make a high level health claims variation.
+4,high_level_health_claims_variation,regulation,High Level Health Claims Variation,"A variation that changes the list of high level health claims that may be made under the Nutrition, Health and Related Claims Standard."
+4,maximum_residue_limits_standard,regulation,Maximum Residue Limits Standard,"The Maximum Residue Limits Standard as in force from time to time, or any standard in force in substitution for that standard."
 4,member,role,Member of the Board,"A member of the Board of the Authority, including the Chairperson and the Chief Executive Officer."
-4,New Zealand authority,entity,New Zealand Authority,"A body established by New Zealand, or by or under a law of New Zealand."
-4,New Zealand lead Minister on the Forum on Food Regulation,person,New Zealand Lead Minister on the Forum on Food Regulation,The Minister of the government of New Zealand who is a member of the Forum on Food Regulation and nominated to be the lead Minister.
-4,"Nutrition, Health and Related Claims Standard",regulation,"Nutrition, Health and Related Claims Standard","The Nutrition, Health and Related Claims Standard as in force from time to time, or any standard in force in substitution for that standard."
-4,policy guideline,concept,Policy Guideline,A guideline formulated by the Forum on Food Regulation for the purposes of paragraph 18(2)(e).
+4,new_zealand_authority,entity,New Zealand Authority,"A body established by New Zealand, or by or under a law of New Zealand."
+4,new_zealand_lead_minister_on_the_forum_on_food_regulation,person,New Zealand Lead Minister on the Forum on Food Regulation,The Minister of the government of New Zealand who is a member of the Forum on Food Regulation and nominated to be the lead Minister.
+4,nutrition_health_and_related_claims_standard,regulation,"Nutrition, Health and Related Claims Standard","The Nutrition, Health and Related Claims Standard as in force from time to time, or any standard in force in substitution for that standard."
+4,policy_guideline,concept,Policy Guideline,A guideline formulated by the Forum on Food Regulation for the purposes of paragraph 18(2)(e).
 4,standard,regulation,Standard,"A standard made under this Act after the commencement of Part 1 of Schedule 1 to the Australia New Zealand Food Authority Amendment Act 2001, a standard adopted by a former Council under this Act, or a standard included in the Australia New Zealand Food Standards Code, excluding editorial notes and examples."
-4,State or Territory authority,entity,State or Territory Authority,"A body established by a State or Territory, or by or under a law of a State or Territory."
-4,Territory,entity,Territory,Refers to the Australian Capital Territory and the Northern Territory.
-4,trust money,concept,Trust Money,Money received or held by the Authority on trust.
-5,food,definition,Food,"Food includes substances or things used, capable of being used, or represented as being for use, for human consumption; ingredients or additives in such substances or things; substances used in preparing such substances or things; chewing gum and its ingredients or additives; and any substance or thing declared to be food under section 6."
+4,state_or_territory_authority,entity,State or Territory Authority,"A body established by a State or Territory, or by or under a law of a State or Territory."
+4,territory,entity,Territory,Refers to the Australian Capital Territory and the Northern Territory.
+4,trust_money,concept,Trust Money,Money received or held by the Authority on trust.
 5,therapeutic_good,definition,Therapeutic Good,A therapeutic good within the meaning of the Therapeutic Goods Act 1989.
 5,live_animals_and_plants,definition,Live Animals and Plants,Live animals and plants may be included as food.
-6,Minister,person,Minister,The Minister is authorized to declare a substance or thing as food for the purposes of the Act after consulting the Authority.
-6,Authority,organization,Authority,The Authority is the entity that the Minister must consult before making a declaration that a substance or thing is food.
-6,Legislation_Act_2003,legislation,Legislation Act 2003,Legislation that contains provisions about disallowance and sunsetting that do not apply to the declaration made by the Minister under the FOOD STANDARDS AUSTRALIA NEW ZEALAND ACT 1991.
-6,New_Zealand_Gazette,publication,New Zealand Gazette,The publication in which the Minister must cause a copy of the declaration to be published.
-6,Declaration_of_what_is_food,regulation,Declaration of what is food,A legislative instrument by which the Minister declares a substance or thing as food for the purposes of the Act.
+6,minister,person,Minister,The Minister is authorized to declare a substance or thing as food for the purposes of the Act after consulting the Authority.
+6,legislation_act_2003,legislation,Legislation Act 2003,Legislation that contains provisions about disallowance and sunsetting that do not apply to the declaration made by the Minister under the FOOD STANDARDS AUSTRALIA NEW ZEALAND ACT 1991.
+6,new_zealand_gazette,publication,New Zealand Gazette,The publication in which the Minister must cause a copy of the declaration to be published.
+6,declaration_of_what_is_food,regulation,Declaration of what is food,A legislative instrument by which the Minister declares a substance or thing as food for the purposes of the Act.
 7,public_notice_requirements,regulation,Public Notice Requirements,Requirements for the Authority to give public notice of a particular matter under the Act.
 7,government_agency,organization,Appropriate Government Agency,Government agencies that must be given written notice by the Authority when public notice is required.
 7,applicant,person,Applicant,Individual or entity applying to develop or vary a food regulatory measure.
@@ -61,19 +59,18 @@ section,id,type,name,description
 9,territories_regulation,regulation,Territories Regulation,Regulation of food and food standards in the Territories.
 9,commonwealth_standards_control,regulation,Commonwealth Standards Control,"Controlling the standards of all food supplied to the Commonwealth, its authorities and its instrumentalities."
 9,weights_and_measures,regulation,Weights and Measures,Fixing of weights and measures in respect of food.
-10,Crown,entity,Crown,"The Crown in right of the Commonwealth, of each of the States, of the Australian Capital Territory and of the Northern Territory"
-11,Chapter 2 of the Criminal Code,legislation,Chapter 2 of the Criminal Code,Sets out the general principles of criminal responsibility.
-11,FOOD STANDARDS AUSTRALIA NEW ZEALAND ACT 1991,legislation,FOOD STANDARDS AUSTRALIA NEW ZEALAND ACT 1991,The act to which Chapter 2 of the Criminal Code applies.
-12,Australia New Zealand Food Authority,organization,Australia New Zealand Food Authority,The body that was known as the Australia New Zealand Food Authority before being continued as Food Standards Australia New Zealand.
-12,Acts Interpretation Act 1901,legislation,Acts Interpretation Act 1901,An act that includes provisions relevant to the continuation of the Australia New Zealand Food Authority as Food Standards Australia New Zealand.
-12,"Public Governance, Performance and Accountability Act 2013",legislation,"Public Governance, Performance and Accountability Act 2013","An act that applies to the Authority, dealing with matters relating to corporate Commonwealth entities, including reporting and the use and management of public resources."
-13,Australia_New_Zealand_Food_Standards_Code,regulation,Australia New Zealand Food Standards Code,A code that contains the standards and guidelines for food safety and labeling in Australia and New Zealand.
-13,Minister_administering_Part_3-3_of_Schedule_2_to_the_Competition_and_Consumer_Act_2010,person,Minister,"The Minister responsible for administering Part 3-3 of Schedule 2 to the Competition and Consumer Act 2010, which relates to the recall of food under Commonwealth law."
-13,States_and_Territories,organization,States and Territories,The state and territory governments in Australia that work in consultation with the Authority on various functions related to food standards and safety.
-13,New_Zealand,concept,New Zealand,A country that can request the Authority to perform functions similar to those it performs for the States and Territories of Australia.
-14,Authority,organization,Food Standards Australia New Zealand Authority,The Authority has the power to do all things necessary or convenient in connection with the performance of its functions.
-15,Forum_on_Food_Regulation,organization,Forum on Food Regulation,The Minister must consult with the Forum on Food Regulation before giving a direction under subsection (1).
-15,Public_Governance_Performance_and_Accountability_Act_2013,legislation,"Public Governance, Performance and Accountability Act 2013",Section 22 of this Act deals with the application of government policy to corporate Commonwealth entities and its application is not affected by this section.
+10,crown,entity,Crown,"The Crown in right of the Commonwealth, of each of the States, of the Australian Capital Territory and of the Northern Territory"
+11,chapter_2_of_the_criminal_code,legislation,Chapter 2 of the Criminal Code,Sets out the general principles of criminal responsibility.
+11,food_standards_australia_new_zealand_act_1991,legislation,FOOD STANDARDS AUSTRALIA NEW ZEALAND ACT 1991,The act to which Chapter 2 of the Criminal Code applies.
+12,australia_new_zealand_food_authority,organization,Australia New Zealand Food Authority,The body that was known as the Australia New Zealand Food Authority before being continued as Food Standards Australia New Zealand.
+12,acts_interpretation_act_1901,legislation,Acts Interpretation Act 1901,An act that includes provisions relevant to the continuation of the Australia New Zealand Food Authority as Food Standards Australia New Zealand.
+12,public_governance_performance_and_accountability_act_2013,legislation,"Public Governance, Performance and Accountability Act 2013","An act that applies to the Authority, dealing with matters relating to corporate Commonwealth entities, including reporting and the use and management of public resources."
+13,australia_new_zealand_food_standards_code,regulation,Australia New Zealand Food Standards Code,A code that contains the standards and guidelines for food safety and labeling in Australia and New Zealand.
+13,minister_administering_part_3_3_of_schedule_2_to_the_competition_and_consumer_act_2010,person,Minister,"The Minister responsible for administering Part 3-3 of Schedule 2 to the Competition and Consumer Act 2010, which relates to the recall of food under Commonwealth law."
+13,states_and_territories,organization,States and Territories,The state and territory governments in Australia that work in consultation with the Authority on various functions related to food standards and safety.
+13,new_zealand,concept,New Zealand,A country that can request the Authority to perform functions similar to those it performs for the States and Territories of Australia.
+15,forum_on_food_regulation,organization,Forum on Food Regulation,The Minister must consult with the Forum on Food Regulation before giving a direction under subsection (1).
+15,public_governance_performance_and_accountability_act_2013,legislation,"Public Governance, Performance and Accountability Act 2013",Section 22 of this Act deals with the application of government policy to corporate Commonwealth entities and its application is not affected by this section.
 16,handle,concept,Handling of Food,"Includes produce, collect, receive, store, serve, display, package, transport, dispose of or recall food."
 16,food_composition,regulation_subject,Composition of Food,"Standards related to the composition of food, including contaminants, additives, microbiological status, and methods of sampling and testing."
 16,food_production,regulation_subject,Production of Food,Standards related to the production of food.
@@ -93,7 +90,7 @@ section,id,type,name,description
 16,public_health_matters,regulation_subject,Public Health Matters Relating to Food,Standards related to other public health matters relating to food as prescribed.
 16,food_class,regulation_subject,Class of Food,Standards may relate to a class of food generally.
 16,food_brand,regulation_subject,Particular Brand of Food,Standards may relate to a particular brand of food.
-17,SECT_17,legislation,Codes of practice,"Codes of practice, and variations of codes of practice, may deal only with matters that may be included in standards."
+17,sect_17,legislation,Codes of practice,"Codes of practice, and variations of codes of practice, may deal only with matters that may be included in standards."
 18,public_health_and_safety,objective,Protection of public health and safety,The highest priority objective of the Authority in developing or reviewing food regulatory measures.
 18,informed_consumer_choice,objective,Provision of adequate information to consumers,Objective to enable consumers to make informed choices regarding food.
 18,prevent_misleading_conduct,objective,Prevention of misleading or deceptive conduct,Objective to prevent misleading or deceptive conduct in food regulation.
@@ -103,205 +100,144 @@ section,id,type,name,description
 18,fair_trading,standard,Fair trading in food,The promotion of fair trading in food.
 18,policy_guidelines,regulation,Policy guidelines by the Forum on Food Regulation,Guidelines formulated by the Forum on Food Regulation for the Authority to consider in developing or reviewing food regulatory measures.
 18,sanitary_and_phytosanitary_measures,regulation,Sanitary or phytosanitary measures,"Measures applied to protect life and health of animals, plants, and humans from risks arising from pests, diseases, and contaminants in food and to prevent damage from pests."
-20,Three_Year_Forward_Plan,document,Three Year Forward Plan,A plan that outlines the Authority's intentions to develop standards or variations to standards for the next three years.
+20,three_year_forward_plan,document,Three Year Forward Plan,A plan that outlines the Authority's intentions to develop standards or variations to standards for the next three years.
 21,application,procedure,Application for food regulatory measure,"A request made for the development or variation of a food regulatory measure, excluding high level health claims variations."
 21,public_submissions,procedure,Public Submissions,A process where the Authority calls for public input on the application or draft food regulatory measure.
 21,draft_food_regulatory_measure,document,Draft Food Regulatory Measure,A preliminary version of a food regulatory measure prepared by the Authority.
-21,draft_standard_or_variation,document,Draft Standard or Variation,A draft version of a standard or its variation that is subject to approval by the Authority.
-22,food_regulatory_measure,regulation,Food Regulatory Measure,A regulatory measure related to food standards that can be developed or varied.
 22,application_requirements,regulation,Application Requirements,"Requirements for an application to develop or vary a food regulatory measure, including being in writing, following a specified form, including all necessary information and things, and identifying the applicable procedure."
 22,guidelines_section_23,regulation,Guidelines under Section 23,"Guidelines that specify the form, information, and things to be included with an application for the development or variation of a food regulatory measure."
 23,application_guidelines,regulation,Application Guidelines,"Guidelines specifying the form, information, and things to be included with applications for the development or variation of food regulatory measures."
 23,section_146,legislation,Section 146,A section of the Act that may involve a charge payable to the Authority in relation to applications for food regulatory measures.
-24,applicant,role,Applicant,An individual or entity that submits an application to the Authority and may withdraw the application under certain conditions.
-24,draft_food_regulatory_measure,regulation,Draft Food Regulatory Measure,"A proposed regulation or variation thereof related to food standards, which is subject to approval by the Authority."
 24,section_28,legislation,Section 28,A section of the Food Standards Australia New Zealand Act 1991 that involves giving public notice of an application.
 24,section_51,legislation,Section 51,A section of the Food Standards Australia New Zealand Act 1991 that involves giving public notice of an application.
 25,general_procedure,procedure,General Procedure,The default procedure adopted by the Authority for considering applications for the development or variation of food regulatory measures.
-25,Subdivision_E,legislation,Subdivision E,Subdivision E applies to applications for a minor variation of a food regulatory measure.
-25,Subdivision_F,legislation,Subdivision F,Subdivision F applies to applications for the development of a new food regulatory measure or a major variation of a food regulatory measure.
-25,Subdivision_G,legislation,Subdivision G,Subdivision G applies to applications for a high level health claims variation.
+25,subdivision_e,legislation,Subdivision E,Subdivision E applies to applications for a minor variation of a food regulatory measure.
+25,subdivision_f,legislation,Subdivision F,Subdivision F applies to applications for the development of a new food regulatory measure or a major variation of a food regulatory measure.
+25,subdivision_g,legislation,Subdivision G,Subdivision G applies to applications for a high level health claims variation.
 25,urgent_application,concept,Urgent Application,An application declared to be urgent for the purposes of this Part under section 95.
 25,high_level_health_claims_variation,variation,High Level Health Claims Variation,A variation that involves high level health claims.
 25,other_kind_of_variation,variation,Other Kind of Variation,A variation of a kind other than a high level health claims variation.
-26,subsection_22(2),regulation,Subsection 22(2) compliance,A criterion that applications must comply with for the Authority to consider accepting them.
-26,food_regulatory_measure,regulation,Food regulatory measure,A regulatory measure related to food that applications may seek to develop or vary.
+26,subsection_22_2,regulation,Subsection 22(2) compliance,A criterion that applications must comply with for the Authority to consider accepting them.
 26,previous_application_or_proposal,regulation,Previous application or proposal,A past application or proposal that new applications are compared to in order to determine if they are too similar and should be rejected.
 27,charge_under_section_146,regulation,Charge under Section 146,"A charge that must be paid by the applicant in relation to the application, which can be payable in instalments."
-28,application,event,Application for food regulatory measure,An application submitted to the Authority for the development or variation of a food regulatory measure.
 28,public_notice,event,Public notice of application,"A notice given by the Authority to the public stating the receipt and acceptance of an application for a food regulatory measure, along with other relevant details."
-28,exclusive_capturable_commercial_benefit,concept,Exclusive capturable commercial benefit,A benefit that would be conferred on an applicant if the standard were made or varied as sought in the application.
-29,New_Zealand_standards,regulation,New Zealand Standards,Standards relevant to the assessment of applications by the Authority.
+29,new_zealand_standards,regulation,New Zealand Standards,Standards relevant to the assessment of applications by the Authority.
 29,section_18,legislation,Section 18 of the FOOD STANDARDS AUSTRALIA NEW ZEALAND ACT 1991,A section that sets out the objectives of the Authority in developing food regulatory measures and variations of those measures.
-30,application,legal_procedure,Application,A formal request for the preparation of a draft food regulatory measure or a variation of a food regulatory measure.
 30,public_notice_section_31,legal_procedure,Public Notice under Section 31,A notice to the public that is required by Section 31 of the Food Standards Australia New Zealand Act 1991.
 31,draft_variation_of_food_regulatory_measure,regulation,Draft Variation of Food Regulatory Measure,A draft variation to an existing food regulatory measure prepared by the Authority.
-31,public_notice,regulatory_action,Public Notice,A notice given by the Authority to inform the public about a draft food regulatory measure or variation and to call for written submissions.
 31,written_submissions,regulatory_action,Written Submissions,Submissions from the public for the Authority's consideration of the draft measure or draft variation.
 31,submission_period,regulatory_action,Submission Period,The time period specified in the public notice during which written submissions must be given to the Authority.
 32,standard_development_variation,process,Standard Development or Variation,The process undertaken by the Authority when an application results in the development or variation of a standard.
 32,code_of_practice_development_variation,process,Code of Practice Development or Variation,The process undertaken by the Authority when an application results in the development or variation of a code of practice.
-32,SECT_33,legislation,Section 33,A section of the Food Standards Australia New Zealand Act 1991 that outlines steps to be followed for standard development or variation.
-32,SECT_34,legislation,Section 34,A section of the Food Standards Australia New Zealand Act 1991 that outlines additional steps to be followed for standard development or variation.
-32,SECT_35,legislation,Section 35,A section of the Food Standards Australia New Zealand Act 1991 that outlines steps to be followed for code of practice development or variation.
+32,sect_33,legislation,Section 33,A section of the Food Standards Australia New Zealand Act 1991 that outlines steps to be followed for standard development or variation.
+32,sect_34,legislation,Section 34,A section of the Food Standards Australia New Zealand Act 1991 that outlines additional steps to be followed for standard development or variation.
+32,sect_35,legislation,Section 35,A section of the Food Standards Australia New Zealand Act 1991 that outlines steps to be followed for code of practice development or variation.
 33,draft_standard_or_draft_variation,regulation,Draft Standard or Draft Variation,"A proposed standard or variation to an existing standard that is subject to approval, amendment, or rejection by the Authority."
-33,submission_period,event,Submission Period,The period during which submissions are made in relation to the draft standard or draft variation.
 33,report,document,Report under Section 33,"A report prepared by the Authority that includes reasons for decisions, summaries of assessments and submissions, responses to issues raised, and copies of the draft standard or draft variation."
-33,Regulation_Impact_Statement,document,Regulation Impact Statement,"A statement that may be included in the report if applicable, providing impact analysis of the regulation."
-34,Division_3,legislation,Division 3,The section of the legislation that outlines the process followed by the Forum on Food Regulation after receiving notification from the Authority.
-36,Subdivision_Application,regulation,Application of Subdivision,"This Subdivision applies to an application for the variation of a food regulatory measure that does not impose, vary, or remove obligations or rights, or otherwise alter the legal effect of the measure."
-36,Variation_of_Food_Regulatory_Measure,regulation,Variation of Food Regulatory Measure,"A variation of a food regulatory measure that corrects typographical errors, updates references to other documents, changes cross-references within a measure, or omits provisions that have ceased to have effect."
-37,Subdivision_modifications,legislation,Modifications in Subdivision,Modifications to the general procedure that the Authority must adopt when considering an application.
-38,FOOD_STANDARDS_AUSTRALIA_NEW_ZEALAND_ACT_1991_SECT_38,legislation,FOOD STANDARDS AUSTRALIA NEW ZEALAND ACT 1991 - SECT 38,Modification of step set out in section 29
+33,regulation_impact_statement,document,Regulation Impact Statement,"A statement that may be included in the report if applicable, providing impact analysis of the regulation."
+34,division_3,legislation,Division 3,The section of the legislation that outlines the process followed by the Forum on Food Regulation after receiving notification from the Authority.
+36,subdivision_application,regulation,Application of Subdivision,"This Subdivision applies to an application for the variation of a food regulatory measure that does not impose, vary, or remove obligations or rights, or otherwise alter the legal effect of the measure."
+36,variation_of_food_regulatory_measure,regulation,Variation of Food Regulatory Measure,"A variation of a food regulatory measure that corrects typographical errors, updates references to other documents, changes cross-references within a measure, or omits provisions that have ceased to have effect."
+37,subdivision_modifications,legislation,Modifications in Subdivision,Modifications to the general procedure that the Authority must adopt when considering an application.
+38,food_standards_australia_new_zealand_act_1991_sect_38,legislation,FOOD STANDARDS AUSTRALIA NEW ZEALAND ACT 1991 - SECT 38,Modification of step set out in section 29
 38,section_29,legislation,section 29,Section of the FOOD STANDARDS AUSTRALIA NEW ZEALAND ACT 1991 which includes steps that the Authority must follow
 38,paragraphs_29_2_a_and_b,legislation,paragraphs 29(2)(a) and (b),Require the Authority to do a cost benefit analysis
 39,section_30,legislation,Section 30 of FOOD STANDARDS AUSTRALIA NEW ZEALAND ACT 1991,"Section 30 deals with the case where the draft variation differs from that sought in the application, or was not sought at all."
 39,section_39,legislation,Section 39 of FOOD STANDARDS AUSTRALIA NEW ZEALAND ACT 1991,Section 39 modifies the step set out in Section 30 by stating that subsections 30(2) and (3) do not apply.
 40,section_31,regulation,Section 31,A step set out in the FOOD STANDARDS AUSTRALIA NEW ZEALAND ACT 1991 which is modified by section 40.
 40,section_40,regulation,Section 40,"Modifies the step set out in section 31, stating that section 31 does not apply, and outlines the process the Authority must follow after preparing a draft variation of the food regulatory measure as a result of an application."
-40,Authority,entity,Authority,The entity responsible for preparing a draft variation of a food regulatory measure and giving notice to the applicant and appropriate government agencies.
 40,draft_variation,regulation,Draft Variation,A draft variation of a food regulatory measure prepared by the Authority as a result of an application.
-40,submission_period,regulation,Submission Period,The period specified in the notice during which written submissions can be made to the Authority for the purpose of its consideration of the draft variation.
 41,report_under_section_41,document,Report under Section 41,"A report prepared by the Authority that includes reasons for accepting the application, a summary of the assessment, reasons for the decision on the draft variation, and a copy of the draft variation."
-42,New_Food_Regulatory_Measure_Development,regulated_activity,Development of a new food regulatory measure,An application process for creating new regulations pertaining to food standards.
-42,Food_Regulatory_Measure_Variation,regulated_activity,Variation of a food regulatory measure,An application process for modifying existing regulations pertaining to food standards.
-42,Scientific_Technical_Complexity,condition,Scientific or technical complexity,A condition where the application involves complexity that necessitates a specific procedure for consideration.
-42,Significant_Scope_Change,condition,Significant change to the scope,A condition where the application involves a significant change to the scope of the food regulatory measure that necessitates a specific procedure for consideration.
-44,section_29,legislation,Section 29,A section of the Food Standards Australia New Zealand Act 1991 that outlines a step in the application assessment process by the Authority.
-44,section_30,legislation,Section 30,A section of the Food Standards Australia New Zealand Act 1991 that outlines the subsequent step in the application process following the assessment by the Authority.
+42,new_food_regulatory_measure_development,regulated_activity,Development of a new food regulatory measure,An application process for creating new regulations pertaining to food standards.
+42,food_regulatory_measure_variation,regulated_activity,Variation of a food regulatory measure,An application process for modifying existing regulations pertaining to food standards.
+42,scientific_technical_complexity,condition,Scientific or technical complexity,A condition where the application involves complexity that necessitates a specific procedure for consideration.
+42,significant_scope_change,condition,Significant change to the scope,A condition where the application involves a significant change to the scope of the food regulatory measure that necessitates a specific procedure for consideration.
 44,section_44,legislation,Section 44,A section of the Food Standards Australia New Zealand Act 1991 that requires the Authority to give public notice after assessing an application under section 29 but before undertaking the step set out in section 30.
-45,section_30,legislation,Section 30 of the FOOD STANDARDS AUSTRALIA NEW ZEALAND ACT 1991,"A section of the Act under which the Authority must make a decision, considering all submissions made during the submission period."
-46,Nutrition_Health_and_Related_Claims_Standard,regulation,"Nutrition, Health and Related Claims Standard",A standard under the FOOD STANDARDS AUSTRALIA NEW ZEALAND ACT 1991 that regulates the claims that can be made about the nutrition and health benefits of food.
-46,high_level_health_claims_variation,regulation,High Level Health Claims Variation,"A type of variation to the Nutrition, Health and Related Claims Standard that involves a change to the list of high level health claims that may be made under the Standard."
-46,general_procedure,regulation,General Procedure,"The procedure that applies to applications to vary the Nutrition, Health and Related Claims Standard that do not involve a change to the list of high level health claims."
-47,subsection_22(2),legislation,Subsection 22(2),A legislative subsection that applications must comply with to be accepted.
+46,nutrition_health_and_related_claims_standard,regulation,"Nutrition, Health and Related Claims Standard",A standard under the FOOD STANDARDS AUSTRALIA NEW ZEALAND ACT 1991 that regulates the claims that can be made about the nutrition and health benefits of food.
 48,charge_section_146,regulation,Charge under Section 146,"A charge that the applicant must pay in relation to the application, which may be payable in instalments."
-49,High_Level_Health_Claims_Committee,committee,High Level Health Claims Committee,A committee established for the purpose of making recommendations on applications for high level health claims variations.
-49,Food_Regulation_Standing_Committee,committee,Food Regulation Standing Committee,A committee to which the Authority must give notice of applications for high level health claims variations.
-49,applicant,entity,Applicant,The individual or entity that submits an application for a high level health claims variation to the Authority.
+49,high_level_health_claims_committee,committee,High Level Health Claims Committee,A committee established for the purpose of making recommendations on applications for high level health claims variations.
+49,food_regulation_standing_committee,committee,Food Regulation Standing Committee,A committee to which the Authority must give notice of applications for high level health claims variations.
 50,draft_high_level_health_claims_variation,legislation,Draft High Level Health Claims Variation,A proposed change to food standards that the Authority must consider for approval.
-50,public_health_and_safety,objective,Protection of Public Health and Safety,An objective that the Authority must be satisfied is met before approving a draft high level health claims variation.
-50,informed_consumer_choice,objective,Provision of Adequate Information Relating to Food,"An objective to enable consumers to make informed choices, which the Authority must consider before approving a draft variation."
-50,prevent_misleading_conduct,objective,Prevention of Misleading or Deceptive Conduct,"An objective to prevent misleading or deceptive conduct in relation to food, which the Authority must consider before approving a draft variation."
 50,public_notice_section_51,legislation,Public Notice under Section 51,A procedure where the Authority gives public notice calling for submissions to consider for assessing a draft variation.
-51,public_notice,procedure,Public Notice for Submissions,A notice given by the Authority to call for written submissions for the consideration of a draft high level health claims variation.
-51,draft_variation,document,Draft High Level Health Claims Variation,A draft variation prepared by the Authority that is subject to public submissions.
-51,submission_period,concept,Submission Period,The time period specified in the public notice during which written submissions must be given to the Authority.
-52,High_Level_Health_Claims_Variation,regulation,High Level Health Claims Variation,A draft variation related to high level health claims that the Authority must consider for approval or rejection.
-52,High_Level_Health_Claims_Committee,organization,High Level Health Claims Committee,A committee that provides recommendations to the Authority in relation to applications and draft variations of high level health claims.
-52,Food_Regulation_Standing_Committee,organization,Food Regulation Standing Committee,A committee that may submit recommendations or submissions to the Authority in relation to applications and draft variations of high level health claims.
-52,Section_51_Notice,regulation,Section 51 Notice,"A notice calling for submissions under section 51 of the Act, which is part of the process for considering a draft high level health claims variation."
-52,Section_150,regulation,Section 150,A section of the Act that specifies the Board must not delegate its powers to act on behalf of the Authority in approving or rejecting draft high level health claims variations.
-53,draft_high_level_health_claims_variation,regulation,Draft High Level Health Claims Variation,A variation approved by the Authority that requires notification to the Forum on Food Regulation.
+52,high_level_health_claims_variation,regulation,High Level Health Claims Variation,A draft variation related to high level health claims that the Authority must consider for approval or rejection.
+52,section_51_notice,regulation,Section 51 Notice,"A notice calling for submissions under section 51 of the Act, which is part of the process for considering a draft high level health claims variation."
+52,section_150,regulation,Section 150,A section of the Act that specifies the Board must not delegate its powers to act on behalf of the Authority in approving or rejecting draft high level health claims variations.
 53,report_prepared_under_section_52,document,Report Prepared Under Section 52,A report that the Authority must provide to the Forum on Food Regulation upon approval of a draft high level health claims variation.
 53,submissions_called_for_under_section_51,procedure,Submissions Called for Under Section 51,"A procedure where submissions are called for, which if done, requires the Authority to give public notice of the decision."
 54,draft_standard,regulation,Draft Standard,A draft version of a standard that the Authority must decide to approve or reject.
 54,draft_code_of_practice,regulation,Draft Code of Practice,A draft version of a code of practice that the Authority must decide to revoke or vary.
-55,Proposal,document,Proposal for food regulatory measure,A written document prepared by the Authority for the development or variation of a food regulatory measure.
+55,proposal,document,Proposal for food regulatory measure,A written document prepared by the Authority for the development or variation of a food regulatory measure.
 56,proposal,legislation,Proposal,A proposal that may result in the development or variation of a standard or code of practice.
-56,draft_standard,legislation,Draft Standard,A draft standard that is developed or varied as a result of a proposal.
-56,draft_variation,legislation,Draft Variation,A draft variation to a standard or code of practice that is developed as a result of a proposal.
-56,draft_code_of_practice,legislation,Draft Code of Practice,A draft code of practice that is developed or varied as a result of a proposal.
 56,public_notice_section_58_or_75,legislation,Public Notice under Section 58 or 75,A public notice that is given under section 58 or 75 of the Act.
 56,abandonment_notice,legislation,Abandonment Notice,A notice stating that the Authority has decided to abandon the proposal and how to obtain further information about the decision and the reasons for it.
 57,minor_variation_proposal,proposal,Minor Variation of a Food Regulatory Measure,"A type of proposal to which Subdivision E applies, indicating a different procedure from the general procedure."
 57,new_or_major_variation_proposal,proposal,Development of a New or Major Variation of a Food Regulatory Measure,"A type of proposal to which Subdivision F applies, indicating a different procedure from the general procedure."
 57,high_level_health_claims_variation_proposal,proposal,High Level Health Claims Variation,"A type of proposal to which Subdivision G applies, indicating a different procedure from the general procedure."
 57,urgent_proposal,proposal,Urgent Proposal,"A proposal declared to be urgent for the purposes of this Part under section 95, indicating a different procedure from the general procedure."
-58,Proposal,regulation,Food Regulatory Measure Proposal,A proposal prepared by the Authority for the development or variation of a food regulatory measure.
-58,PublicNotice,regulation,Public Notice of Proposal,"A notice given by the Authority to the public stating the preparation of a proposal, its date, summary, procedure to be adopted, key steps timeline, and how to obtain further information."
-59,proposal,regulation,Proposal,A proposal prepared by the Authority for the development or variation of food regulatory measures.
+58,public_notice,regulation,Public Notice of Proposal,"A notice given by the Authority to the public stating the preparation of a proposal, its date, summary, procedure to be adopted, key steps timeline, and how to obtain further information."
 59,section_56,regulation,Section 56,A section of the Act that allows the Authority to abandon a proposal.
-59,section_18,regulation,Section 18,A section of the Act that sets out the objectives of the Authority in developing food regulatory measures and variations of those measures.
-60,draft_variation_of_food_regulatory_measure,regulation,Draft Variation of a Food Regulatory Measure,A written draft variation to an existing food regulatory measure prepared by the Authority after assessing a proposal.
-60,proposal,concept,Proposal,A proposal for a new food regulatory measure or a variation to an existing measure that the Authority assesses.
 62,standard_development_or_variation,process,Standard Development or Variation,The process of developing or varying a standard which the Authority must follow according to sections 63 and 64.
 62,code_of_practice_development_or_variation,process,Code of Practice Development or Variation,The process of developing or varying a code of practice which the Authority must follow according to section 65.
 62,section_63,legislation,Section 63,A step that the Authority must follow for standard development or variation.
 62,section_64,legislation,Section 64,A step that the Authority must follow for standard development or variation.
 62,section_65,legislation,Section 65,A step that the Authority must follow for code of practice development or variation.
-63,report,document,Report under Section 63,"A report prepared by the Authority that includes reasons for the proposal, assessment results, summaries of submissions, responses to issues, reasons for amendments, and the Authority's reasons for their decision."
-64,Division_3,regulation,Division 3,The division of the legislation that outlines the process followed by the Forum on Food Regulation after receiving notification from the Authority.
-66,Subdivision_Application,regulation,SECT 66 Application of Subdivision,This regulation pertains to the application of a subdivision related to the proposal for the variation of a food regulatory measure.
-66,Variation_of_Food_Regulatory_Measure,regulation,Variation of a Food Regulatory Measure,"A variation of a food regulatory measure that does not impose, vary, or remove an obligation or right of any person, or otherwise alter the legal effect of the measure."
-66,Typographical_Error_Correction,exception,Correction of Typographical Error,An example of a variation that corrects a typographical error within a food regulatory measure.
-66,Update_Reference,exception,Update of Reference,An example of a variation that updates a reference to another document within a food regulatory measure.
-66,Change_Cross_Reference,exception,Change of Cross-Reference,An example of a variation that changes a cross-reference within a food regulatory measure.
-66,Omit_Ceased_Provisions,exception,Omission of Ceased Provisions,An example of a variation that omits provisions of a food regulatory measure that have ceased to have effect.
-67,Subdivision_modifications,legislation,Subdivision Modifications,Modifications to the general procedure that the Authority must adopt when considering proposals.
-68,Section_61,legislation,Section 61,A step set out in the FOOD STANDARDS AUSTRALIA NEW ZEALAND ACT 1991 which is modified by Section 68.
-68,Draft_Variation,document,Draft Variation of a Food Regulatory Measure,A draft variation prepared by the Authority as a result of a proposal.
-68,Government_Agencies,organization,Appropriate Government Agencies,Government agencies to which the Authority must give written notice after preparing a draft variation of the food regulatory measure.
-68,Written_Submissions,document,Written Submissions,"Submissions called for by the Authority for the purpose of consideration of the draft variation, to be made within a specified period."
+66,typographical_error_correction,exception,Correction of Typographical Error,An example of a variation that corrects a typographical error within a food regulatory measure.
+66,update_reference,exception,Update of Reference,An example of a variation that updates a reference to another document within a food regulatory measure.
+66,change_cross_reference,exception,Change of Cross-Reference,An example of a variation that changes a cross-reference within a food regulatory measure.
+66,omit_ceased_provisions,exception,Omission of Ceased Provisions,An example of a variation that omits provisions of a food regulatory measure that have ceased to have effect.
+68,section_61,legislation,Section 61,A step set out in the FOOD STANDARDS AUSTRALIA NEW ZEALAND ACT 1991 which is modified by Section 68.
+68,draft_variation,document,Draft Variation of a Food Regulatory Measure,A draft variation prepared by the Authority as a result of a proposal.
+68,government_agencies,organization,Appropriate Government Agencies,Government agencies to which the Authority must give written notice after preparing a draft variation of the food regulatory measure.
+68,written_submissions,document,Written Submissions,"Submissions called for by the Authority for the purpose of consideration of the draft variation, to be made within a specified period."
 69,report_under_section_69,document,Report under Section 69,"A report prepared by the Authority that includes reasons for preparing the proposal, a summary of assessment results, reasons for approving or rejecting the draft variation, and a copy of the draft variation."
 71,modifications,concept,Modifications,Specific changes to the general procedure that must be adopted by the Authority when considering the proposal.
 72,section_59,legislation,Section 59 of the Food Standards Australia New Zealand Act 1991,A section of the Act that outlines a step that the Authority must take in assessing a proposal.
 72,section_60,legislation,Section 60 of the Food Standards Australia New Zealand Act 1991,A section of the Act that outlines the step following the assessment of a proposal by the Authority.
-72,public_notice,procedure,Public Notice Requirement,"A step where the Authority must give public notice of the assessment of a proposal, including a summary of results and a call for written submissions."
-72,written_submissions,procedure,Call for Written Submissions,A procedure where the Authority calls for written submissions on matters relevant to the proposal within a specified period.
-73,section_60,legislation,Section 60 of the FOOD STANDARDS AUSTRALIA NEW ZEALAND ACT 1991,"A section of the Act under which the Authority must make a decision, considering all submissions made during the submission period."
-73,submission_period,time_period,Submission Period,The period during which submissions must be made and considered by the Authority in making a decision under section 60.
-74,Subdivision_SECT_74,legislation,Subdivision of SECT 74,"This Subdivision outlines the application of SECT 74 to proposals for the variation of the Nutrition, Health and Related Claims Standard, specifically when the variation proposed is a high level health claims variation."
-74,high_level_health_claims_variation,concept,High Level Health Claims Variation,"A type of variation to the Nutrition, Health and Related Claims Standard that involves changes to the list of high level health claims that may be made under the Standard."
-74,general_procedure,concept,General Procedure,"The procedure that applies to proposals to vary the Nutrition, Health and Related Claims Standard that do not involve a change to the list of high level health claims, as referenced in Subdivisions D, E, and F."
-76,High_Level_Health_Claims_Variation,regulation,Draft High Level Health Claims Variation,A draft variation that the Authority must consider for approval.
-76,Public_Health_and_Safety,objective,Protection of Public Health and Safety,An objective that the Authority must be satisfied is met before approving the draft variation.
-76,Informed_Choices,objective,Provision of Adequate Information Relating to Food,"An objective to enable consumers to make informed choices, which the Authority must consider before approving the draft variation."
-76,Prevent_Misleading_Conduct,objective,Prevention of Misleading or Deceptive Conduct,"An objective to prevent misleading or deceptive conduct in relation to food, which the Authority must consider before approving the draft variation."
-77,high level health claims variation,regulation,high level health claims variation,A variation that is subject to approval by the Authority and requires public notice and submissions before approval.
-77,submission period,regulation,submission period,The specified period within which written submissions must be given to the Authority for the purpose of considering the draft variation.
+74,subdivision_sect_74,legislation,Subdivision of SECT 74,"This Subdivision outlines the application of SECT 74 to proposals for the variation of the Nutrition, Health and Related Claims Standard, specifically when the variation proposed is a high level health claims variation."
+76,public_health_and_safety,objective,Protection of Public Health and Safety,An objective that the Authority must be satisfied is met before approving the draft variation.
+76,informed_choices,objective,Provision of Adequate Information Relating to Food,"An objective to enable consumers to make informed choices, which the Authority must consider before approving the draft variation."
+76,prevent_misleading_conduct,objective,Prevention of Misleading or Deceptive Conduct,"An objective to prevent misleading or deceptive conduct in relation to food, which the Authority must consider before approving the draft variation."
+77,submission_period,regulation,submission period,The specified period within which written submissions must be given to the Authority for the purpose of considering the draft variation.
 79,report_prepared_under_section_78,document,Report Prepared Under Section 78,"A report that the Authority prepares under section 78, which must be provided to the Forum on Food Regulation upon approval of a draft high level health claims variation."
-80,Division_Application,regulation,Application of Division,This Division applies if the APVMA notifies the Authority under section 8E of the Agvet Code of an application or variation in relation to a chemical product.
-80,Agvet_Code_section_8E,regulation,Section 8E of the Agvet Code,Section 8E of the Agvet Code is the regulation under which the APVMA notifies the Authority of an application or variation in relation to a chemical product.
-81,APVMA_notification,event,APVMA Notification,A notification under section 8E of the Agvet Code regarding an application or variation.
-81,Agvet_Code_section_8E,legislation,Agvet Code section 8E,A section of the Agvet Code that requires notification of an application or variation.
-82,Maximum_Residue_Limits_Standard,regulation,Maximum Residue Limits Standard,A standard that specifies the permitted maximum residue limits for chemical products.
-82,Legislative_Instrument,regulation,Legislative Instrument,A variation made under subsection (1) is considered a legislative instrument.
-82,Gazette,publication,Gazette,The publication in which a copy of the variation must be published.
-84,Food_Regulation_Agreement,document,Food Regulation Agreement,A document that the Forum on Food Regulation must comply with when exercising its powers in relation to a draft standard or variation.
-84,Australia_New_Zealand_Joint_Food_Standards_Agreement,document,Australia New Zealand Joint Food Standards Agreement,A document that the Forum on Food Regulation must comply with when exercising its powers in relation to a draft high level health claims variation.
+80,division_application,regulation,Application of Division,This Division applies if the APVMA notifies the Authority under section 8E of the Agvet Code of an application or variation in relation to a chemical product.
+80,agvet_code_section_8_e,regulation,Section 8E of the Agvet Code,Section 8E of the Agvet Code is the regulation under which the APVMA notifies the Authority of an application or variation in relation to a chemical product.
+81,apvma_notification,event,APVMA Notification,A notification under section 8E of the Agvet Code regarding an application or variation.
+82,maximum_residue_limits_standard,regulation,Maximum Residue Limits Standard,A standard that specifies the permitted maximum residue limits for chemical products.
+82,legislative_instrument,regulation,Legislative Instrument,A variation made under subsection (1) is considered a legislative instrument.
+82,gazette,publication,Gazette,The publication in which a copy of the variation must be published.
+84,food_regulation_agreement,document,Food Regulation Agreement,A document that the Forum on Food Regulation must comply with when exercising its powers in relation to a draft standard or variation.
+84,australia_new_zealand_joint_food_standards_agreement,document,Australia New Zealand Joint Food Standards Agreement,A document that the Forum on Food Regulation must comply with when exercising its powers in relation to a draft high level health claims variation.
 85,section_92,legislation,Section 92,Contains the publication requirements that the Authority must comply with when the Forum on Food Regulation does not intend to request a review.
 86,direction_under_subsection_2,regulation,Direction under subsection (2),"A direction given by the Forum on Food Regulation to the Authority in relation to the conduct of a review, which is not a legislative instrument."
 87,review_of_draft_standard_or_variation,process,Review of Draft Standard or Variation,"A process conducted by the Authority upon request by the Forum on Food Regulation, subject to any directions under subsection 86(2)."
-87,decision_by_Authority,event,Decision by Authority,"The event where the Authority decides to either re-affirm approval of the draft, re-affirm approval with necessary amendments, or withdraw approval of the draft."
-87,notification_to_Forum,event,Notification to Forum,The event where the Authority notifies the Forum on Food Regulation of its decision and reasons within 10 business days.
+87,decision_by_authority,event,Decision by Authority,"The event where the Authority decides to either re-affirm approval of the draft, re-affirm approval with necessary amendments, or withdraw approval of the draft."
+87,notification_to_forum,event,Notification to Forum,The event where the Authority notifies the Forum on Food Regulation of its decision and reasons within 10 business days.
 89,publication_requirements_section_92,regulation,Publication Requirements Section 92,The requirements that the Authority must comply with regarding the publication of a draft standard or draft variation when the Forum on Food Regulation does not intend to amend or reject it.
-90,section_92,regulation,Section 92,The section that sets out the publication requirements the Authority must comply with after being informed of an amendment.
-92,New Zealand Gazette,publication,New Zealand Gazette,A publication where the Authority must publish a copy of the notice regarding the draft or amended draft of food standards.
-92,Authority's website,platform,Authority's website,The online platform where the Authority must publish a copy of the notice and the text of the draft or the amended draft of food standards.
+92,new_zealand_gazette,publication,New Zealand Gazette,A publication where the Authority must publish a copy of the notice regarding the draft or amended draft of food standards.
+92,authority_s_website,platform,Authority's website,The online platform where the Authority must publish a copy of the notice and the text of the draft or the amended draft of food standards.
 93,standard_or_variation,regulation,Standard or Variation,A regulation or amendment to a regulation under the FOOD STANDARDS AUSTRALIA NEW ZEALAND ACT 1991.
 93,notice_given_under_section_92,regulation,Notice under Section 92,A notice given under section 92 of the FOOD STANDARDS AUSTRALIA NEW ZEALAND ACT 1991 that specifies the day a standard or variation takes effect.
 94,section_94,legislation,Standards and variations are legislative instruments,"A standard, or a variation of a standard, in relation to which a notice is published under section 92 is a legislative instrument."
-94,section_92,legislation,Publication of notice for standards or variations,Section referenced where a notice is published for a standard or variation to be a legislative instrument.
 94,section_42,legislation,Disallowance,"Section 42 of the Legislation Act 2003, which pertains to disallowance, does not apply to the standard or variation."
-94,section_44(1),legislation,Exemption from disallowance,Subsection 44(1) of the Legislation Act 2003 provides that disallowance under Section 42 does not apply to the standard or variation.
-94,section_54(1),legislation,Exemption from sunsetting,Subsection 54(1) of the Legislation Act 2003 provides that sunsetting under Part 4 of Chapter 3 does not apply to the standard or variation.
-94,Part_4_of_Chapter_3,legislation,Sunsetting,"Part 4 of Chapter 3 of the Legislation Act 2003, which pertains to sunsetting of legislative instruments, does not apply to the standard or variation."
-95,urgent_proposal,concept,Urgent Proposal,A specified proposal prepared under section 55 that the Authority can declare as urgent to protect public health and safety or to address negative impacts on trade.
-95,public_health_and_safety,concept,Public Health and Safety,An objective that the Authority aims to protect when declaring an application or proposal as urgent.
+94,section_44_1,legislation,Exemption from disallowance,Subsection 44(1) of the Legislation Act 2003 provides that disallowance under Section 42 does not apply to the standard or variation.
+94,section_54_1,legislation,Exemption from sunsetting,Subsection 54(1) of the Legislation Act 2003 provides that sunsetting under Part 4 of Chapter 3 does not apply to the standard or variation.
+94,part_4_of_chapter_3,legislation,Sunsetting,"Part 4 of Chapter 3 of the Legislation Act 2003, which pertains to sunsetting of legislative instruments, does not apply to the standard or variation."
 95,negative_impact_on_trade,concept,Negative Impact on Trade,"A situation where a standard has had or will have an unintended negative impact on trade, which can be a reason for the Authority to declare an application or proposal as urgent."
 95,appropriate_government_agency,organization,Appropriate Government Agency,Government agencies that must be given a copy of the declaration when an application or proposal is declared urgent by the Authority.
 95,public_notice_of_declaration,concept,Public Notice of Declaration,"A notice that the Authority must give to announce a declaration of an urgent application or proposal, including a copy of the declaration."
 95,media_publicity,concept,Media Publicity,The process of distributing copies of the urgent declaration to print and electronic media in Australia and New Zealand to inform the public.
 95,exemptions_for_urgent_application_proposal,concept,Exemptions for Urgent Application or Proposal,Certain subdivisions and divisions of the Act that do not apply to an urgent application or proposal.
 95,no_charge_under_section_146,concept,No Charge for Urgent Application,No fee is required under section 146 for processing an urgent application.
-96,urgent_application,procedure,Urgent Application,An application considered by the Authority to prepare a draft standard or variation of a standard.
-96,urgent_proposal,procedure,Urgent Proposal,A proposal considered by the Authority to prepare a draft standard or variation of a standard.
-96,public_notice,procedure,Public Notice,A notice given by the Authority stating the preparation of a draft standard or variation and calling for written submissions.
-96,submission_period,procedure,Submission Period,The time period specified in a public notice for interested persons and government agencies to submit their considerations on the draft standard or variation.
-97,draft_standard_or_variation,regulation,Draft Standard or Variation,A proposed standard or amendment to a standard prepared under section 96 that the Authority must consider for approval.
 97,public_notice_of_approval,regulation,Public Notice of Approval,A notice given by the Authority to inform the public about the approval of a draft standard or variation and where to obtain further information.
 97,legislative_instrument,regulation,Legislative Instrument,The form that a standard or variation takes once it is approved and notice is published under subsection 4.
-98,Subdivision,legislation,Subdivision,The Subdivision referenced applies under certain conditions.
+98,subdivision,legislation,Subdivision,The Subdivision referenced applies under certain conditions.
 98,section_97,legislation,Section 97,The section under which the Authority approves a draft standard or a draft variation of a standard.
 99,costs_and_benefits,concept,Costs and Benefits,"The costs and benefits to the community, Government, or industry from the standard or variation."
 99,alternative_measures,concept,Alternative Measures,Other measures that could be more cost-effective than the standard or variation.
 99,other_relevant_matters,concept,Other Relevant Matters,Any other matters that are relevant to the assessment of the standard or variation.
-104,subsection_103(2),legislation,subsection 103(2),A legislative provision that may give directions on how the Authority should conduct reviews.
+104,subsection_103_2,legislation,subsection 103(2),A legislative provision that may give directions on how the Authority should conduct reviews.
 104,subsection_55,legislation,section 55,A legislative provision under which the Authority can prepare a proposal for the development of a variation or a replacement standard.
 104,section_150,legislation,section 150,A legislative provision stating that the Board must not delegate its powers to act on behalf of the Authority under subsection (2).
-108,application,concept,Application,"A submission that requires assessment by the Authority to develop or vary a food regulatory measure, or to determine the applicability of a charge under section 146."
-108,charge_under_section_146,concept,Charge under section 146,A charge that may be payable to the Authority in relation to an application.
 108,public_notice_of_application,legal_procedure,Public Notice of Application,A notice given to the public under section 28 or 51 regarding an application.
 108,withdrawn_application,concept,Withdrawn Application,An application is considered withdrawn if the applicant fails to comply with the Authority's request for further information without a reasonable excuse.
 109,consideration_period,time_period,Consideration Period,The time frame within which the Authority must complete the consideration of applications for standards or variations.
@@ -315,170 +251,134 @@ section,id,type,name,description
 111,public_hearing,event,Public Hearing,"A hearing that may be conducted by the Authority at any point during the consideration of an application or proposal for the development or variation of a food regulatory measure, excluding applications for a high level health claims variation."
 111,private_hearing_part,event,Private Part of Hearing,A part of the public hearing that the Authority may direct to be held in private due to the confidential nature of evidence or any other reason.
 111,direction_prohibiting_publication,regulatory_action,Direction Prohibiting or Restricting Publication,A directive that the Authority may issue to prohibit or restrict the publication of evidence or documents produced during public or private hearings or the review or assessment of draft food regulatory measures or variations.
-111,legislative_instrument,concept,Legislative Instrument,"A formal document that has legislative power, which in this context, a direction under subsection (3) is explicitly not."
-112,government_agency,organization,Government Agency,"A government agency refers to a Department of State of the Commonwealth, a State or Territory, or New Zealand, or a body established by law of the Commonwealth, a State or Territory, or New Zealand."
 112,section_55,legislation,Section 55,Section of the Act related to proposals that the Authority may decide not to act upon to avoid duplication of work.
-114,Board_member,person,Board member,A person who is a member of the Board of the Authority.
-114,Authority_staff_member,person,Staff member of the Authority,A person who is a member of the staff of the Authority.
-114,Committee_member,person,Committee member,A person who is a member of a committee.
-114,Consultant,person,Consultant,A person engaged as a consultant under section 136.
-114,Chief_Executive_Officer,person,Chief Executive Officer,The Chief Executive Officer of the Authority.
-114,Prescribed_authority_or_person,entity,Prescribed authority or person,An authority or person to whom confidential information may be disclosed as prescribed.
-114,Applicant,entity,Applicant,A person or body who applies for the development or variation of a food regulatory measure.
-114,Agency_Head,person,Agency Head,The head of an Agency within the meaning of the Public Service Act 1999.
-114,Commonwealth_authority_Chief_Officer,person,Chief Officer of a Commonwealth authority,The Chief Officer of a Commonwealth authority.
-114,State_or_Territory_Department_Secretary,person,Secretary of a Department of the Public Service of a State or Territory,The Secretary of a Department of the Public Service of a State or Territory.
-114,State_or_Territory_authority_Chief_Officer,person,Chief Officer of a State or Territory authority,The Chief Officer of a State or Territory authority.
-114,New_Zealand_Department_chief_executive,person,Chief executive of a Department of State of New Zealand,The chief executive of a Department of State of New Zealand.
-114,New_Zealand_authority_Chief_Officer,person,Chief Officer of a New Zealand authority,The Chief Officer of a New Zealand authority.
-114,Other_authority_or_body_Chief_Officer,person,Chief Officer of any other authority or body,The Chief Officer of any other authority or body.
-114,Court,entity,Court,"Includes a tribunal, authority or person having power to require the production of documents or the answering of questions."
-115,Board_of_Food_Standards_Australia_New_Zealand,organization,Board of Food Standards Australia New Zealand,The organization responsible for conducting the affairs of the Authority.
-116,Board,organization,Board of the Food Standards Australia New Zealand,"The Board is constituted of various members including a Chairperson, the Chief Executive Officer, members nominated by the New Zealand lead Minister on the Forum on Food Regulation, consumer organisations, the CEO of the National Health and Medical Research Council, and organisations or public bodies related to science, public health, and the food industry."
-116,Chairperson,role,Chairperson of the Board,The Chairperson is a part-time member of the Board who must be appointed by the Minister and is subject to the agreement of the Forum on Food Regulation.
-116,Chief_Executive_Officer,role,Chief Executive Officer of the Board,The Chief Executive Officer is automatically a member of the Board without the need for appointment and is not subject to certain sections of the Act.
-116,New_Zealand_lead_Minister,person,New Zealand lead Minister on the Forum on Food Regulation,This Minister nominates members to the Board for specific roles.
-116,Consumer_organisations,organization,Consumer Organisations,Organisations that nominate a member to the Board who is knowledgeable in consumer rights and consumer affairs policy in Australia.
-116,CEO_of_NHMRC,person,CEO of the National Health and Medical Research Council,This CEO nominates a member to the Board.
-116,Science_and_Public_Health_Organisations,organization,Organisations related to Science and Public Health,"These organisations or public bodies nominate members to the Board who are qualified in fields related to public health, consumer affairs, food science, and other relevant areas."
-116,Food_Industry_Organisations,organization,Organisations related to the Food Industry,"These organisations or public bodies nominate members to the Board who are qualified in fields related to the food industry, food processing, retailing, and other relevant areas."
-116,Minister,role,Minister,"The Minister appoints members to the Board, ensuring they are suitably qualified and have been nominated by the appropriate organisations or public bodies."
-117,member,role,Member,A member is appointed by the Minister and holds office for a period not exceeding 4 years. They are eligible for reappointment for a second term but not for a third or subsequent term.
-117,Chairperson,role,Chairperson,The Chairperson is a specific role within the members that the Minister appoints with certain restrictions regarding previous employment or pecuniary interests in food production or manufacture.
-118,Committee,organization,Committee,Committees are established by the Board to assist in carrying out its functions or to make recommendations on applications or proposals for a high level health claims variation.
-119,Board_members,person,Members of the Board,Individuals who are part of the Board under the FOOD STANDARDS AUSTRALIA NEW ZEALAND ACT 1991.
-119,Committee_members,person,Members of committees,Individuals who are part of committees under the FOOD STANDARDS AUSTRALIA NEW ZEALAND ACT 1991.
-119,Remuneration_Tribunal,organization,Remuneration Tribunal,The tribunal responsible for determining the remuneration of members of the Board and committees when no other determination is in force.
-119,Remuneration_Tribunal_Act_1973,legislation,Remuneration Tribunal Act 1973,The act that has effect on the remuneration and allowances of members of the Board and committees under the FOOD STANDARDS AUSTRALIA NEW ZEALAND ACT 1991.
-120,Chairperson,person,Chairperson,The Chairperson is authorized to grant leave of absence to any other member under the FOOD STANDARDS AUSTRALIA NEW ZEALAND ACT 1991 - SECT 120.
-120,Member,person,Member,A Member is an individual who can be granted leave of absence by the Chairperson under the FOOD STANDARDS AUSTRALIA NEW ZEALAND ACT 1991 - SECT 120.
-121,Chairperson,position,Chairperson,"The Chairperson is a position within the organization that can have an acting appointment during certain conditions such as absence, vacancy, or inability to perform duties."
-121,Member,position,Member,"A member is a position within the organization that can have an acting appointment during certain conditions such as absence, vacancy, or inability to perform duties."
-122,Board_members,concept,Members of the Board,Members of the Board have the authority to request a meeting if at least 3 members sign a written request. They appoint a presiding member if the Chairperson is not present.
+114,board_member,person,Board member,A person who is a member of the Board of the Authority.
+114,authority_staff_member,person,Staff member of the Authority,A person who is a member of the staff of the Authority.
+114,committee_member,person,Committee member,A person who is a member of a committee.
+114,consultant,person,Consultant,A person engaged as a consultant under section 136.
+114,chief_executive_officer,person,Chief Executive Officer,The Chief Executive Officer of the Authority.
+114,prescribed_authority_or_person,entity,Prescribed authority or person,An authority or person to whom confidential information may be disclosed as prescribed.
+114,applicant,entity,Applicant,A person or body who applies for the development or variation of a food regulatory measure.
+114,agency_head,person,Agency Head,The head of an Agency within the meaning of the Public Service Act 1999.
+114,commonwealth_authority_chief_officer,person,Chief Officer of a Commonwealth authority,The Chief Officer of a Commonwealth authority.
+114,state_or_territory_department_secretary,person,Secretary of a Department of the Public Service of a State or Territory,The Secretary of a Department of the Public Service of a State or Territory.
+114,state_or_territory_authority_chief_officer,person,Chief Officer of a State or Territory authority,The Chief Officer of a State or Territory authority.
+114,new_zealand_department_chief_executive,person,Chief executive of a Department of State of New Zealand,The chief executive of a Department of State of New Zealand.
+114,new_zealand_authority_chief_officer,person,Chief Officer of a New Zealand authority,The Chief Officer of a New Zealand authority.
+114,other_authority_or_body_chief_officer,person,Chief Officer of any other authority or body,The Chief Officer of any other authority or body.
+114,court,entity,Court,"Includes a tribunal, authority or person having power to require the production of documents or the answering of questions."
+115,board_of_food_standards_australia_new_zealand,organization,Board of Food Standards Australia New Zealand,The organization responsible for conducting the affairs of the Authority.
+116,chairperson,role,Chairperson of the Board,The Chairperson is a part-time member of the Board who must be appointed by the Minister and is subject to the agreement of the Forum on Food Regulation.
+116,new_zealand_lead_minister,person,New Zealand lead Minister on the Forum on Food Regulation,This Minister nominates members to the Board for specific roles.
+116,consumer_organisations,organization,Consumer Organisations,Organisations that nominate a member to the Board who is knowledgeable in consumer rights and consumer affairs policy in Australia.
+116,ceo_of_nhmrc,person,CEO of the National Health and Medical Research Council,This CEO nominates a member to the Board.
+116,science_and_public_health_organisations,organization,Organisations related to Science and Public Health,"These organisations or public bodies nominate members to the Board who are qualified in fields related to public health, consumer affairs, food science, and other relevant areas."
+116,food_industry_organisations,organization,Organisations related to the Food Industry,"These organisations or public bodies nominate members to the Board who are qualified in fields related to the food industry, food processing, retailing, and other relevant areas."
+118,committee,organization,Committee,Committees are established by the Board to assist in carrying out its functions or to make recommendations on applications or proposals for a high level health claims variation.
+119,board_members,person,Members of the Board,Individuals who are part of the Board under the FOOD STANDARDS AUSTRALIA NEW ZEALAND ACT 1991.
+119,committee_members,person,Members of committees,Individuals who are part of committees under the FOOD STANDARDS AUSTRALIA NEW ZEALAND ACT 1991.
+119,remuneration_tribunal,organization,Remuneration Tribunal,The tribunal responsible for determining the remuneration of members of the Board and committees when no other determination is in force.
+119,remuneration_tribunal_act_1973,legislation,Remuneration Tribunal Act 1973,The act that has effect on the remuneration and allowances of members of the Board and committees under the FOOD STANDARDS AUSTRALIA NEW ZEALAND ACT 1991.
+120,member,person,Member,A Member is an individual who can be granted leave of absence by the Chairperson under the FOOD STANDARDS AUSTRALIA NEW ZEALAND ACT 1991 - SECT 120.
 123,meeting_participation_methods,concept,Meeting Participation Methods,"The Board may permit members to participate in meetings by telephone, closed-circuit television, or any other means of communication."
-124,subsection_122(5),legislation,Subsection 122(5) of the Food Standards Australia New Zealand Act 1991,The subsection of the Act that defines the quorum for a meeting of the Board.
-125,Board_member,person,Board member of the Authority,A member of the Board who may have a material personal interest in a matter being considered by the Board.
-125,Authority_website,platform,Authority's website,The website where the Board must publish the register of members' interests.
-127,member,person,Board Member,"A member of the Board whose appointment can be terminated by the Minister for reasons such as misbehaviour, incapacity, bankruptcy, failure to comply with section 125, conflict of interest in employment, or absence without leave."
-127,Chairperson,person,Chairperson of the Board,The Chairperson of the Board whose appointment can be terminated by the Minister for engaging in paid employment without approval or being absent without leave.
-127,"Public Governance, Performance and Accountability Act 2013 - SECT 30",legislation,"Public Governance, Performance and Accountability Act 2013 - SECT 30","Legislation that deals with terminating the appointment of an accountable authority, or a member of an accountable authority, for contravening general duties of officials."
-128,Chief_Executive_Officer_of_the_Authority,position,Chief Executive Officer of the Authority,A position within the Authority that is appointed by the Board on a full-time basis.
-128,Board,organization,Board,The governing body responsible for appointing the Chief Executive Officer of the Authority.
+124,subsection_122_5,legislation,Subsection 122(5) of the Food Standards Australia New Zealand Act 1991,The subsection of the Act that defines the quorum for a meeting of the Board.
+125,authority_website,platform,Authority's website,The website where the Board must publish the register of members' interests.
+127,public_governance_performance_and_accountability_act_2013_sect_30,legislation,"Public Governance, Performance and Accountability Act 2013 - SECT 30","Legislation that deals with terminating the appointment of an accountable authority, or a member of an accountable authority, for contravening general duties of officials."
+128,chief_executive_officer_of_the_authority,position,Chief Executive Officer of the Authority,A position within the Authority that is appointed by the Board on a full-time basis.
 128,body_corporate_involved_in_food_production_or_manufacture,organization,Body Corporate involved in food production or manufacture,A body corporate whose primary commercial activity relates directly to the production or manufacture of food.
-130,Authority_staff_member,person,Authority staff member,A member of the staff of the Authority to whom the Chief Executive Officer may delegate functions or powers.
-133,Chief_Executive_Officer,position,Chief Executive Officer,"The position whose terms and conditions, including termination of appointment, are determined by the Board."
-134,Chief_Executive_Officer,role,Chief Executive Officer,The Chief Executive Officer of the Food Standards Australia New Zealand.
-134,Acting_Chief_Executive_Officer,role,Acting Chief Executive Officer,A person appointed by the Board to act as the Chief Executive Officer during a vacancy or when the Chief Executive Officer is absent or unable to perform duties.
-134,Acts_Interpretation_Act_1901,legislation,Acts Interpretation Act 1901,Legislation that includes rules applicable to acting appointments.
-135,Public_Service_Act_1999,legislation,Public Service Act 1999,An Act that governs the engagement of staff in the public service.
-135,Chief_Executive_Officer_of_Authority,person,Chief Executive Officer of the Authority,The Chief Executive Officer of the Food Standards Australia New Zealand Authority.
-135,APS_employees,organization,APS employees assisting the Chief Executive Officer,Australian Public Service employees who assist the Chief Executive Officer of the Authority.
-135,Statutory_Agency,organization,Statutory Agency under the Public Service Act 1999,The Statutory Agency consisting of the Chief Executive Officer and APS employees assisting the Chief Executive Officer.
-136,Consultants,person,Consultants,Individuals with suitable qualifications and experience who can be engaged by the Chief Executive Officer on behalf of the Authority.
-137,Commonwealth_authority_Chief_Officer,person,Chief Officer of Commonwealth authority,The Chief Officer of any Commonwealth authority.
-137,State_Territory_Department_Secretary,person,Secretary of a Department of the Public Service of a State or Territory,The Secretary of a Department of the Public Service of a State or Territory.
-137,State_Territory_authority_Chief_Officer,person,Chief Officer of a State or Territory authority,The Chief Officer of a State or Territory authority.
-137,Other_authority_Chief_Officer,person,Chief Officer of any other authority or body,The Chief Officer of any other authority or body.
-138,Finance_Minister,person,Finance Minister,The minister responsible for giving directions regarding the amounts and timing of money paid to the Authority.
-138,Parliament,organization,Parliament,The legislative body responsible for appropriating money for the purposes of the Authority.
+134,acting_chief_executive_officer,role,Acting Chief Executive Officer,A person appointed by the Board to act as the Chief Executive Officer during a vacancy or when the Chief Executive Officer is absent or unable to perform duties.
+134,acts_interpretation_act_1901,legislation,Acts Interpretation Act 1901,Legislation that includes rules applicable to acting appointments.
+135,public_service_act_1999,legislation,Public Service Act 1999,An Act that governs the engagement of staff in the public service.
+135,chief_executive_officer_of_authority,person,Chief Executive Officer of the Authority,The Chief Executive Officer of the Food Standards Australia New Zealand Authority.
+135,aps_employees,organization,APS employees assisting the Chief Executive Officer,Australian Public Service employees who assist the Chief Executive Officer of the Authority.
+135,statutory_agency,organization,Statutory Agency under the Public Service Act 1999,The Statutory Agency consisting of the Chief Executive Officer and APS employees assisting the Chief Executive Officer.
+136,consultants,person,Consultants,Individuals with suitable qualifications and experience who can be engaged by the Chief Executive Officer on behalf of the Authority.
+137,state_territory_department_secretary,person,Secretary of a Department of the Public Service of a State or Territory,The Secretary of a Department of the Public Service of a State or Territory.
+137,state_territory_authority_chief_officer,person,Chief Officer of a State or Territory authority,The Chief Officer of a State or Territory authority.
+137,other_authority_chief_officer,person,Chief Officer of any other authority or body,The Chief Officer of any other authority or body.
+138,finance_minister,person,Finance Minister,The minister responsible for giving directions regarding the amounts and timing of money paid to the Authority.
+138,parliament,organization,Parliament,The legislative body responsible for appropriating money for the purposes of the Authority.
 139,section_138,legislation,Section 138,A section of the Act that involves payment to the Authority.
 139,section_145,legislation,Section 145,A section of the Act that involves payment to the Authority.
 139,section_147,legislation,Section 147,A section of the Act that involves payment to the Authority.
-139,section_59_Public_Governance_Performance_and_Accountability_Act_2013,legislation,"Section 59 of the Public Governance, Performance and Accountability Act 2013",A section of another Act that allows for the investment of money not immediately required for the purposes of the Authority.
-140,Commonwealth,government,Commonwealth,The federal government of Australia
-140,State,government,State,The individual state governments within Australia
-140,Territory,government,Territory,The territory governments within Australia
-141,Trust_money,concept,Trust Money,Money received by the Authority from any body or person for a particular purpose consistent with the functions of the Authority.
-142,Commonwealth,entity,Commonwealth of Australia,The entity that becomes the owner of documents and samples given or produced to the Authority under the Act.
+139,section_59_public_governance_performance_and_accountability_act_2013,legislation,"Section 59 of the Public Governance, Performance and Accountability Act 2013",A section of another Act that allows for the investment of money not immediately required for the purposes of the Authority.
+140,commonwealth,government,Commonwealth,The federal government of Australia
+140,state,government,State,The individual state governments within Australia
+141,trust_money,concept,Trust Money,Money received by the Authority from any body or person for a particular purpose consistent with the functions of the Authority.
 142,section_114,legislation,Section 114 of the FOOD STANDARDS AUSTRALIA NEW ZEALAND ACT 1991,A section of the Act that may impose conditions on how the Authority can deal with or dispose of documents and samples that become Commonwealth property.
-143,Administrative Appeals Tribunal Act 1975,legislation,Administrative Appeals Tribunal Act 1975,"Legislation that allows for the review of decisions, which is referenced in the context of applications for review under the FOOD STANDARDS AUSTRALIA NEW ZEALAND ACT 1991 - SECT 143."
-143,Administrative Appeals Tribunal,entity,Administrative Appeals Tribunal,The entity to which applications for review of decisions under the FOOD STANDARDS AUSTRALIA NEW ZEALAND ACT 1991 can be made.
+143,administrative_appeals_tribunal_act_1975,legislation,Administrative Appeals Tribunal Act 1975,"Legislation that allows for the review of decisions, which is referenced in the context of applications for review under the FOOD STANDARDS AUSTRALIA NEW ZEALAND ACT 1991 - SECT 143."
+143,administrative_appeals_tribunal,entity,Administrative Appeals Tribunal,The entity to which applications for review of decisions under the FOOD STANDARDS AUSTRALIA NEW ZEALAND ACT 1991 can be made.
 143,decision,concept,decision,"A determination made by the Authority under the FOOD STANDARDS AUSTRALIA NEW ZEALAND ACT 1991, which can be reviewed by the Administrative Appeals Tribunal."
-144,Administrative Appeals Tribunal,organization,Administrative Appeals Tribunal,An organization where application may be made for review of decisions referred to in FOOD STANDARDS AUSTRALIA NEW ZEALAND ACT 1991 - SECT 144.
-144,applicant,person,applicant,The individual or entity who has applied and is given notice of the making of a decision of a kind referred to in paragraph 143(1)(a).
 144,person_affected_by_decision,person,person affected by the decision,A person whose interests are affected by a decision of a kind referred to in paragraph 143(1)(b).
-145,New Zealand lead Minister on the Forum on Food Regulation,person,New Zealand lead Minister on the Forum on Food Regulation,The New Zealand lead Minister who agrees on the fees with the Authority.
 146,regulations,legislation,Regulations under FOOD STANDARDS AUSTRALIA NEW ZEALAND ACT 1991,Regulations that may fix charges for services and facilities provided by the Authority to bodies or persons.
 146,charge,concept,Charge for services and facilities,"A financial obligation to be paid to the Authority for services and facilities provided, which may be paid in instalments and is recoverable as a debt."
-146,New Zealand,entity,New Zealand,A country that must not be specified as a person or body by whom charges are payable under the regulations.
+146,new_zealand,entity,New Zealand,A country that must not be specified as a person or body by whom charges are payable under the regulations.
 146,three_year_plan,concept,Three Year Forward Plan of the Authority,"A plan developed under section 20 of the Act, which must not be displaced by the consideration of an application in relation to which a charge is fixed."
 146,application_to_develop_or_vary_a_standard,process,Application to develop or vary a standard,A process where a charge may be fixed if it confers an exclusive capturable commercial benefit or if expedited consideration is elected by the applicant.
-147,regulations,regulation,Regulations for late payment penalty,Regulations may include provisions for a late payment penalty if charges under section 146 remain unpaid.
-147,charge_under_section_146,regulation,Charge under section 146,A charge that remains unpaid by the body or person liable after the due time.
 147,late_payment_penalty_rate,regulation,Late payment penalty rate,A penalty rate of 20% per year or a lower percentage if specified by the regulations.
 148,sect_148,regulation,Charge--discount for early payment,The regulations may make provision for and in relation to discounts for early payment of charge under section 146.
 148,sect_146,regulation,Charge under section 146,This is a referenced regulation related to the charge that may have discounts for early payment as per section 148.
-149,regulations,regulation,Regulations,Provisions for the method of working out refunds of charge and for the remission or refund of charge and late payment penalty.
 149,subsection_24_2,legislation,Subsection 24(2),A legislative provision related to the refund of charge.
-150,senior_member_of_the_staff_of_the_Authority,role,Senior Member of the Staff of the Authority,"A person who holds or performs the duties of a Senior Executive Service position or an APS Executive Level 2 position, or an equivalent position, in the Authority."
-150,Chairperson_of_the_Board,role,Chairperson of the Board,The Chairperson of the Board who can sign certificates stating matters with respect to a delegation of power under the Act.
-151,Commonwealth,entity,Commonwealth,"The Commonwealth as an entity is exempt from civil or criminal proceedings, and actions or suits of any other kind in relation to loss or injury sustained because of the consumption of, or other dealing with, food."
-151,Board_member,person,member of the Board,"A member of the Board is exempt from civil or criminal proceedings, and actions or suits of any other kind in relation to loss or injury sustained because of the consumption of, or other dealing with, food."
-151,Person_assisting_the_Authority,person,person assisting the Authority,"A person assisting the Authority in the performance of its functions is exempt from civil or criminal proceedings, and actions or suits of any other kind in relation to loss or injury sustained because of the consumption of, or other dealing with, food."
-151,Standard_compliance,concept,Standard compliance,"In an action related to loss or injury because of the consumption of, or other dealing with, food, compliance with a standard that has come into effect or has been adopted and published is not a defence."
-152,subsection_26(1),legislation,Subsection 26(1),Subsection of the Act concerning the acceptance or rejection of applications.
-152,subsection_24(1),legislation,Subsection 24(1),Subsection of the Act concerning the withdrawal of applications.
+150,senior_member_of_the_staff_of_the_authority,role,Senior Member of the Staff of the Authority,"A person holding a Senior Executive Service position or an APS Executive Level 2 position, or an equivalent position in the Authority."
+150,chairperson_of_the_board,person,Chairperson of the Board,The individual responsible for signing certificates stating matters with respect to a delegation of power under this section.
+151,person_assisting_the_authority,person,person assisting the Authority,"A person assisting the Authority in the performance of its functions is exempt from civil or criminal proceedings, and actions or suits of any other kind in relation to loss or injury sustained because of the consumption of, or other dealing with, food."
+151,standard_compliance,concept,Standard compliance,"In an action related to loss or injury because of the consumption of, or other dealing with, food, compliance with a standard that has come into effect or has been adopted and published is not a defence."
+152,subsection_26_1,legislation,Subsection 26(1),Subsection of the Act concerning the acceptance or rejection of applications.
+152,subsection_24_1,legislation,Subsection 24(1),Subsection of the Act concerning the withdrawal of applications.
 152,section_109,legislation,Section 109,Section of the Act concerning the consideration period for applications.
 152,section_95,legislation,Section 95,Section of the Act concerning the declaration of urgent applications.
-152,section_59,legislation,Section 59,Section of the Act concerning the assessment of proposals.
 152,section_101,legislation,Section 101,Section of the Act concerning the 12 month period for decision making.
 152,section_33,legislation,Section 33,Section of the Act concerning the approval of draft standards and draft variations.
-152,section_82(6),legislation,Section 82(6),Section of the Act concerning variations given to the Authority.
-152,Forum on Food Regulation,entity,Forum on Food Regulation,Forum that requests reviews and can reject or amend standards or variations.
+152,section_82_6,legislation,Section 82(6),Section of the Act concerning variations given to the Authority.
 152A,corporate_plan,concept,Corporate Plan,A plan prepared by the members of an organization.
 152A,members,organization,Members,The individuals or entities responsible for preparing the corporate plan under the FOOD STANDARDS AUSTRALIA NEW ZEALAND ACT 1991.
-153,Governor-General,person,Governor-General,"The Governor-General may make regulations, not inconsistent with this Act."
+153,governor_general,person,Governor-General,"The Governor-General may make regulations, not inconsistent with this Act."
 153,code_of_practice,regulation,Code of Practice,A set of guidelines or standards of practice that can be revoked or varied by the Authority.
-153,public_submissions,process,Public Submissions,A process where the Authority calls for public input on draft food regulatory measures or variations.
-8,FOOD STANDARDS AUSTRALIA NEW ZEALAND ACT 1991 - SECT 10,legislation,FOOD STANDARDS AUSTRALIA NEW ZEALAND ACT 1991 - SECT 10,"The Act binds the Crown in right of the Commonwealth, of each of the States, of the Australian Capital Territory and of the Northern Territory."
-13,FOOD_STANDARDS_AUSTRALIA_NEW_ZEALAND_ACT_1991,concept,FOOD_STANDARDS_AUSTRALIA_NEW_ZEALAND_ACT_1991,"This section does not affect the application of section 22 of the Public Governance, Performance and Accountability Act 2013 in relation to the Authority."
+8,food_standards_australia_new_zealand_act_1991_sect_10,legislation,food_standards_australia_new_zealand_act_1991_sect_10,"The Act binds the Crown in right of the Commonwealth, of each of the States, of the Australian Capital Territory and of the Northern Territory."
 62,public_notice_of_decision,concept,public_notice_of_decision,The public notice must specify the date of effect of the Authority's decision.
 62,public_notice_of_decision,concept,public_notice_of_decision,The public notice must state how to obtain further information about the decision and the reasons for it.
-65,Section_68,legislation,Section_68,Section 68 modifies the step set out in Section 61.
+65,section_68,legislation,section_68,Section 68 modifies the step set out in Section 61.
 85,instrument,concept,instrument,An instrument made under paragraph (1)(b) is not a legislative instrument.
 96,section_99,legislation,section_99,Section 99 refers to Section 18 for the objectives of the Authority in developing food regulatory measures and variations.
 109,proposal_under_section_55,legislation,proposal_under_section_55,A proposal prepared by the Authority after a review is treated as if it were a proposal under section 55.
-110,Confidential_commercial_information,concept,Confidential_commercial_information,Confidential commercial information can be disclosed to a court in any proceeding.
-117,FOOD STANDARDS AUSTRALIA NEW ZEALAND ACT 1991 - SECT 121,legislation,FOOD STANDARDS AUSTRALIA NEW ZEALAND ACT 1991 - SECT 121,The FOOD STANDARDS AUSTRALIA NEW ZEALAND ACT 1991 - SECT 121 references the Acts Interpretation Act 1901 for rules that apply to acting appointments.
-123,FOOD STANDARDS AUSTRALIA NEW ZEALAND ACT 1991 - SECT 127,legislation,FOOD STANDARDS AUSTRALIA NEW ZEALAND ACT 1991 - SECT 127,"Section 127 of the Act references Section 30 of the Public Governance, Performance and Accountability Act 2013 for additional grounds for termination."
-130,FOOD STANDARDS AUSTRALIA NEW ZEALAND ACT 1991 - SECT 134,legislation,FOOD STANDARDS AUSTRALIA NEW ZEALAND ACT 1991 - SECT 134,Section 134 of the Food Standards Australia New Zealand Act 1991 refers to the Acts Interpretation Act 1901 for rules on acting appointments.
-148,FOOD STANDARDS AUSTRALIA NEW ZEALAND ACT 1991 - SECT 152,legislation,FOOD STANDARDS AUSTRALIA NEW ZEALAND ACT 1991 - SECT 152,"The annual report under Section 152 of the Food Standards Australia New Zealand Act 1991 is prepared under Section 46 of the Public Governance, Performance and Accountability Act 2013."
-148,FOOD STANDARDS AUSTRALIA NEW ZEALAND ACT 1991 - SECT 152,legislation,FOOD STANDARDS AUSTRALIA NEW ZEALAND ACT 1991 - SECT 152,The annual report includes the number of applications made under Section 22.
-148,FOOD STANDARDS AUSTRALIA NEW ZEALAND ACT 1991 - SECT 152,legislation,FOOD STANDARDS AUSTRALIA NEW ZEALAND ACT 1991 - SECT 152,The annual report includes the number of applications accepted or rejected under Subsection 26(1).
-148,FOOD STANDARDS AUSTRALIA NEW ZEALAND ACT 1991 - SECT 152,legislation,FOOD STANDARDS AUSTRALIA NEW ZEALAND ACT 1991 - SECT 152,The annual report includes the number of applications withdrawn under Subsection 24(1).
-148,FOOD STANDARDS AUSTRALIA NEW ZEALAND ACT 1991 - SECT 152,legislation,FOOD STANDARDS AUSTRALIA NEW ZEALAND ACT 1991 - SECT 152,The annual report includes the number of applications not assessed under Section 29.
-148,FOOD STANDARDS AUSTRALIA NEW ZEALAND ACT 1991 - SECT 152,legislation,FOOD STANDARDS AUSTRALIA NEW ZEALAND ACT 1991 - SECT 152,The annual report includes occasions where the consideration period under Section 109 elapsed without completion of the procedure.
-148,FOOD STANDARDS AUSTRALIA NEW ZEALAND ACT 1991 - SECT 152,legislation,FOOD STANDARDS AUSTRALIA NEW ZEALAND ACT 1991 - SECT 152,The annual report includes the number of urgent applications declared under Section 95.
-148,FOOD STANDARDS AUSTRALIA NEW ZEALAND ACT 1991 - SECT 152,legislation,FOOD STANDARDS AUSTRALIA NEW ZEALAND ACT 1991 - SECT 152,The annual report includes the number of proposals prepared under Section 55.
-148,FOOD STANDARDS AUSTRALIA NEW ZEALAND ACT 1991 - SECT 152,legislation,FOOD STANDARDS AUSTRALIA NEW ZEALAND ACT 1991 - SECT 152,The annual report includes the number of proposals not assessed under Section 59.
-148,FOOD STANDARDS AUSTRALIA NEW ZEALAND ACT 1991 - SECT 152,legislation,FOOD STANDARDS AUSTRALIA NEW ZEALAND ACT 1991 - SECT 152,The annual report includes occasions when no decision was made within the 12 month period referred to in Subsection 101(1).
-148,FOOD STANDARDS AUSTRALIA NEW ZEALAND ACT 1991 - SECT 152,legislation,FOOD STANDARDS AUSTRALIA NEW ZEALAND ACT 1991 - SECT 152,The annual report includes the number of applications with charges payable under Section 146.
-148,FOOD STANDARDS AUSTRALIA NEW ZEALAND ACT 1991 - SECT 152,legislation,FOOD STANDARDS AUSTRALIA NEW ZEALAND ACT 1991 - SECT 152,The annual report includes the number of applications made to the Administrative Appeals Tribunal for review of decisions of the Authority.
-148,FOOD STANDARDS AUSTRALIA NEW ZEALAND ACT 1991 - SECT 152,legislation,FOOD STANDARDS AUSTRALIA NEW ZEALAND ACT 1991 - SECT 152,The annual report includes the number of draft standards and draft variations approved under Section 33.
-148,FOOD STANDARDS AUSTRALIA NEW ZEALAND ACT 1991 - SECT 152,legislation,FOOD STANDARDS AUSTRALIA NEW ZEALAND ACT 1991 - SECT 152,The annual report includes the number of variations given to the Authority under Subsection 82(6).
-8,FOOD STANDARDS AUSTRALIA NEW ZEALAND ACT 1991 - SECT 10,legislation,FOOD STANDARDS AUSTRALIA NEW ZEALAND ACT 1991 - SECT 10,"The Act binds the Crown in right of the Commonwealth, of each of the States, of the Australian Capital Territory and of the Northern Territory."
-13,FOOD_STANDARDS_AUSTRALIA_NEW_ZEALAND_ACT_1991,concept,FOOD_STANDARDS_AUSTRALIA_NEW_ZEALAND_ACT_1991,"This section does not affect the application of section 22 of the Public Governance, Performance and Accountability Act 2013 in relation to the Authority."
+117,food_standards_australia_new_zealand_act_1991_sect_121,legislation,food_standards_australia_new_zealand_act_1991_sect_121,The FOOD STANDARDS AUSTRALIA NEW ZEALAND ACT 1991 - SECT 121 references the Acts Interpretation Act 1901 for rules that apply to acting appointments.
+123,food_standards_australia_new_zealand_act_1991_sect_127,legislation,food_standards_australia_new_zealand_act_1991_sect_127,"Section 127 of the Act references Section 30 of the Public Governance, Performance and Accountability Act 2013 for additional grounds for termination."
+130,food_standards_australia_new_zealand_act_1991_sect_134,legislation,food_standards_australia_new_zealand_act_1991_sect_134,Section 134 of the Food Standards Australia New Zealand Act 1991 refers to the Acts Interpretation Act 1901 for rules on acting appointments.
+148,food_standards_australia_new_zealand_act_1991_sect_152,legislation,food_standards_australia_new_zealand_act_1991_sect_152,"The annual report under Section 152 of the Food Standards Australia New Zealand Act 1991 is prepared under Section 46 of the Public Governance, Performance and Accountability Act 2013."
+148,food_standards_australia_new_zealand_act_1991_sect_152,legislation,food_standards_australia_new_zealand_act_1991_sect_152,The annual report includes the number of applications made under Section 22.
+148,food_standards_australia_new_zealand_act_1991_sect_152,legislation,food_standards_australia_new_zealand_act_1991_sect_152,The annual report includes the number of applications accepted or rejected under Subsection 26(1).
+148,food_standards_australia_new_zealand_act_1991_sect_152,legislation,food_standards_australia_new_zealand_act_1991_sect_152,The annual report includes the number of applications withdrawn under Subsection 24(1).
+148,food_standards_australia_new_zealand_act_1991_sect_152,legislation,food_standards_australia_new_zealand_act_1991_sect_152,The annual report includes the number of applications not assessed under Section 29.
+148,food_standards_australia_new_zealand_act_1991_sect_152,legislation,food_standards_australia_new_zealand_act_1991_sect_152,The annual report includes occasions where the consideration period under Section 109 elapsed without completion of the procedure.
+148,food_standards_australia_new_zealand_act_1991_sect_152,legislation,food_standards_australia_new_zealand_act_1991_sect_152,The annual report includes the number of urgent applications declared under Section 95.
+148,food_standards_australia_new_zealand_act_1991_sect_152,legislation,food_standards_australia_new_zealand_act_1991_sect_152,The annual report includes the number of proposals prepared under Section 55.
+148,food_standards_australia_new_zealand_act_1991_sect_152,legislation,food_standards_australia_new_zealand_act_1991_sect_152,The annual report includes the number of proposals not assessed under Section 59.
+148,food_standards_australia_new_zealand_act_1991_sect_152,legislation,food_standards_australia_new_zealand_act_1991_sect_152,The annual report includes occasions when no decision was made within the 12 month period referred to in Subsection 101(1).
+148,food_standards_australia_new_zealand_act_1991_sect_152,legislation,food_standards_australia_new_zealand_act_1991_sect_152,The annual report includes the number of applications with charges payable under Section 146.
+148,food_standards_australia_new_zealand_act_1991_sect_152,legislation,food_standards_australia_new_zealand_act_1991_sect_152,The annual report includes the number of applications made to the Administrative Appeals Tribunal for review of decisions of the Authority.
+148,food_standards_australia_new_zealand_act_1991_sect_152,legislation,food_standards_australia_new_zealand_act_1991_sect_152,The annual report includes the number of draft standards and draft variations approved under Section 33.
+148,food_standards_australia_new_zealand_act_1991_sect_152,legislation,food_standards_australia_new_zealand_act_1991_sect_152,The annual report includes the number of variations given to the Authority under Subsection 82(6).
+8,food_standards_australia_new_zealand_act_1991_sect_10,legislation,food_standards_australia_new_zealand_act_1991_sect_10,"The Act binds the Crown in right of the Commonwealth, of each of the States, of the Australian Capital Territory and of the Northern Territory."
 62,public_notice_of_decision,concept,public_notice_of_decision,The public notice must specify the date of effect of the Authority's decision.
 62,public_notice_of_decision,concept,public_notice_of_decision,The public notice must state how to obtain further information about the decision and the reasons for it.
-65,Section_68,legislation,Section_68,Section 68 modifies the step set out in Section 61.
+65,section_68,legislation,section_68,Section 68 modifies the step set out in Section 61.
 85,instrument,concept,instrument,An instrument made under paragraph (1)(b) is not a legislative instrument.
 96,section_99,legislation,section_99,Section 99 refers to Section 18 for the objectives of the Authority in developing food regulatory measures and variations.
 109,proposal_under_section_55,legislation,proposal_under_section_55,A proposal prepared by the Authority after a review is treated as if it were a proposal under section 55.
-110,Confidential_commercial_information,concept,Confidential_commercial_information,Confidential commercial information can be disclosed to a court in any proceeding.
-117,FOOD STANDARDS AUSTRALIA NEW ZEALAND ACT 1991 - SECT 121,legislation,FOOD STANDARDS AUSTRALIA NEW ZEALAND ACT 1991 - SECT 121,The FOOD STANDARDS AUSTRALIA NEW ZEALAND ACT 1991 - SECT 121 references the Acts Interpretation Act 1901 for rules that apply to acting appointments.
-123,FOOD STANDARDS AUSTRALIA NEW ZEALAND ACT 1991 - SECT 127,legislation,FOOD STANDARDS AUSTRALIA NEW ZEALAND ACT 1991 - SECT 127,"Section 127 of the Act references Section 30 of the Public Governance, Performance and Accountability Act 2013 for additional grounds for termination."
-130,FOOD STANDARDS AUSTRALIA NEW ZEALAND ACT 1991 - SECT 134,legislation,FOOD STANDARDS AUSTRALIA NEW ZEALAND ACT 1991 - SECT 134,Section 134 of the Food Standards Australia New Zealand Act 1991 refers to the Acts Interpretation Act 1901 for rules on acting appointments.
-148,FOOD STANDARDS AUSTRALIA NEW ZEALAND ACT 1991 - SECT 152,legislation,FOOD STANDARDS AUSTRALIA NEW ZEALAND ACT 1991 - SECT 152,"The annual report under Section 152 of the Food Standards Australia New Zealand Act 1991 is prepared under Section 46 of the Public Governance, Performance and Accountability Act 2013."
-148,FOOD STANDARDS AUSTRALIA NEW ZEALAND ACT 1991 - SECT 152,legislation,FOOD STANDARDS AUSTRALIA NEW ZEALAND ACT 1991 - SECT 152,The annual report includes the number of applications made under Section 22.
-148,FOOD STANDARDS AUSTRALIA NEW ZEALAND ACT 1991 - SECT 152,legislation,FOOD STANDARDS AUSTRALIA NEW ZEALAND ACT 1991 - SECT 152,The annual report includes the number of applications accepted or rejected under Subsection 26(1).
-148,FOOD STANDARDS AUSTRALIA NEW ZEALAND ACT 1991 - SECT 152,legislation,FOOD STANDARDS AUSTRALIA NEW ZEALAND ACT 1991 - SECT 152,The annual report includes the number of applications withdrawn under Subsection 24(1).
-148,FOOD STANDARDS AUSTRALIA NEW ZEALAND ACT 1991 - SECT 152,legislation,FOOD STANDARDS AUSTRALIA NEW ZEALAND ACT 1991 - SECT 152,The annual report includes the number of applications not assessed under Section 29.
-148,FOOD STANDARDS AUSTRALIA NEW ZEALAND ACT 1991 - SECT 152,legislation,FOOD STANDARDS AUSTRALIA NEW ZEALAND ACT 1991 - SECT 152,The annual report includes occasions where the consideration period under Section 109 elapsed without completion of the procedure.
-148,FOOD STANDARDS AUSTRALIA NEW ZEALAND ACT 1991 - SECT 152,legislation,FOOD STANDARDS AUSTRALIA NEW ZEALAND ACT 1991 - SECT 152,The annual report includes the number of urgent applications declared under Section 95.
-148,FOOD STANDARDS AUSTRALIA NEW ZEALAND ACT 1991 - SECT 152,legislation,FOOD STANDARDS AUSTRALIA NEW ZEALAND ACT 1991 - SECT 152,The annual report includes the number of proposals prepared under Section 55.
-148,FOOD STANDARDS AUSTRALIA NEW ZEALAND ACT 1991 - SECT 152,legislation,FOOD STANDARDS AUSTRALIA NEW ZEALAND ACT 1991 - SECT 152,The annual report includes the number of proposals not assessed under Section 59.
-148,FOOD STANDARDS AUSTRALIA NEW ZEALAND ACT 1991 - SECT 152,legislation,FOOD STANDARDS AUSTRALIA NEW ZEALAND ACT 1991 - SECT 152,The annual report includes occasions when no decision was made within the 12 month period referred to in Subsection 101(1).
-148,FOOD STANDARDS AUSTRALIA NEW ZEALAND ACT 1991 - SECT 152,legislation,FOOD STANDARDS AUSTRALIA NEW ZEALAND ACT 1991 - SECT 152,The annual report includes the number of applications with charges payable under Section 146.
-148,FOOD STANDARDS AUSTRALIA NEW ZEALAND ACT 1991 - SECT 152,legislation,FOOD STANDARDS AUSTRALIA NEW ZEALAND ACT 1991 - SECT 152,The annual report includes the number of applications made to the Administrative Appeals Tribunal for review of decisions of the Authority.
-148,FOOD STANDARDS AUSTRALIA NEW ZEALAND ACT 1991 - SECT 152,legislation,FOOD STANDARDS AUSTRALIA NEW ZEALAND ACT 1991 - SECT 152,The annual report includes the number of draft standards and draft variations approved under Section 33.
-148,FOOD STANDARDS AUSTRALIA NEW ZEALAND ACT 1991 - SECT 152,legislation,FOOD STANDARDS AUSTRALIA NEW ZEALAND ACT 1991 - SECT 152,The annual report includes the number of variations given to the Authority under Subsection 82(6).
+117,food_standards_australia_new_zealand_act_1991_sect_121,legislation,food_standards_australia_new_zealand_act_1991_sect_121,The FOOD STANDARDS AUSTRALIA NEW ZEALAND ACT 1991 - SECT 121 references the Acts Interpretation Act 1901 for rules that apply to acting appointments.
+123,food_standards_australia_new_zealand_act_1991_sect_127,legislation,food_standards_australia_new_zealand_act_1991_sect_127,"Section 127 of the Act references Section 30 of the Public Governance, Performance and Accountability Act 2013 for additional grounds for termination."
+130,food_standards_australia_new_zealand_act_1991_sect_134,legislation,food_standards_australia_new_zealand_act_1991_sect_134,Section 134 of the Food Standards Australia New Zealand Act 1991 refers to the Acts Interpretation Act 1901 for rules on acting appointments.
+148,food_standards_australia_new_zealand_act_1991_sect_152,legislation,food_standards_australia_new_zealand_act_1991_sect_152,"The annual report under Section 152 of the Food Standards Australia New Zealand Act 1991 is prepared under Section 46 of the Public Governance, Performance and Accountability Act 2013."
+148,food_standards_australia_new_zealand_act_1991_sect_152,legislation,food_standards_australia_new_zealand_act_1991_sect_152,The annual report includes the number of applications made under Section 22.
+148,food_standards_australia_new_zealand_act_1991_sect_152,legislation,food_standards_australia_new_zealand_act_1991_sect_152,The annual report includes the number of applications accepted or rejected under Subsection 26(1).
+148,food_standards_australia_new_zealand_act_1991_sect_152,legislation,food_standards_australia_new_zealand_act_1991_sect_152,The annual report includes the number of applications withdrawn under Subsection 24(1).
+148,food_standards_australia_new_zealand_act_1991_sect_152,legislation,food_standards_australia_new_zealand_act_1991_sect_152,The annual report includes the number of applications not assessed under Section 29.
+148,food_standards_australia_new_zealand_act_1991_sect_152,legislation,food_standards_australia_new_zealand_act_1991_sect_152,The annual report includes occasions where the consideration period under Section 109 elapsed without completion of the procedure.
+148,food_standards_australia_new_zealand_act_1991_sect_152,legislation,food_standards_australia_new_zealand_act_1991_sect_152,The annual report includes the number of urgent applications declared under Section 95.
+148,food_standards_australia_new_zealand_act_1991_sect_152,legislation,food_standards_australia_new_zealand_act_1991_sect_152,The annual report includes the number of proposals prepared under Section 55.
+148,food_standards_australia_new_zealand_act_1991_sect_152,legislation,food_standards_australia_new_zealand_act_1991_sect_152,The annual report includes the number of proposals not assessed under Section 59.
+148,food_standards_australia_new_zealand_act_1991_sect_152,legislation,food_standards_australia_new_zealand_act_1991_sect_152,The annual report includes occasions when no decision was made within the 12 month period referred to in Subsection 101(1).
+148,food_standards_australia_new_zealand_act_1991_sect_152,legislation,food_standards_australia_new_zealand_act_1991_sect_152,The annual report includes the number of applications with charges payable under Section 146.
+148,food_standards_australia_new_zealand_act_1991_sect_152,legislation,food_standards_australia_new_zealand_act_1991_sect_152,The annual report includes the number of applications made to the Administrative Appeals Tribunal for review of decisions of the Authority.
+148,food_standards_australia_new_zealand_act_1991_sect_152,legislation,food_standards_australia_new_zealand_act_1991_sect_152,The annual report includes the number of draft standards and draft variations approved under Section 33.
+148,food_standards_australia_new_zealand_act_1991_sect_152,legislation,food_standards_australia_new_zealand_act_1991_sect_152,The annual report includes the number of variations given to the Authority under Subsection 82(6).
